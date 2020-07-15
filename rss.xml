@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Tue, 14 Jul 2020 23:19:00 PDT</pubDate>
+      <pubDate>Tue, 14 Jul 2020 23:24:00 PDT</pubDate>
 
-      <lastBuildDate>Tue, 14 Jul 2020 23:19:00 PDT</lastBuildDate>
+      <lastBuildDate>Tue, 14 Jul 2020 23:24:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.1.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 07/14/2020 11:19:00 PM</title>
+         <title>Weather Conditions at 07/14/2020 11:24:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 55.2&#176;F; 
-           Barometer: 29.963 inHg; 
+           Outside temperature: 55.1&#176;F; 
+           Barometer: 29.962 inHg; 
            Wind: 5 mph from 225&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 71.0&#176;F
+           Inside temperature: 70.5&#176;F
          </description>
-         <pubDate>Tue, 14 Jul 2020 23:19:00 PDT</pubDate>
+         <pubDate>Tue, 14 Jul 2020 23:24:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                07/14/2020 11:19:00 PM<br/>
-             Outside Temperature: 55.2&#176;F<br/>
-             Inside Temperature:  71.0&#176;F<br/>
-             Wind Chill:          55.2&#176;F<br/>
-             Heat Index:          55.2&#176;F<br/>
-             Dewpoint:            50.8&#176;F<br/>
+             Time:                07/14/2020 11:24:00 PM<br/>
+             Outside Temperature: 55.1&#176;F<br/>
+             Inside Temperature:  70.5&#176;F<br/>
+             Wind Chill:          55.1&#176;F<br/>
+             Heat Index:          55.1&#176;F<br/>
+             Dewpoint:            50.7&#176;F<br/>
              Humidity:            85%<br/>
-             Barometer:           29.963 inHg<br/>
+             Barometer:           29.962 inHg<br/>
              Wind:                5 mph from 225&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 07/14/2020 11:19:00 PM</title>
+         <title>Daily Weather Summary as of 07/14/2020 11:24:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 52.6&#176;F at 04:26:51 AM;
@@ -56,7 +56,7 @@
             Max wind :               33 mph from 167&#176; at 04:48:14 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Tue, 14 Jul 2020 23:19:00 PDT</pubDate>
+         <pubDate>Tue, 14 Jul 2020 23:24:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 07/14/2020 11:19:00 PM</title>
+         <title>Monthly Weather Summary as of 07/14/2020 11:24:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 46.3&#176;F at 07/03/2020 05:53:04 AM;
@@ -87,7 +87,7 @@
             Max wind :               33 mph from 213&#176; at 07/01/2020 12:57:29 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Tue, 14 Jul 2020 23:19:00 PDT</pubDate>
+         <pubDate>Tue, 14 Jul 2020 23:24:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   July 2020<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 07/14/2020 11:19:00 PM</title>
+         <title>Yearly Weather Summary as of 07/14/2020 11:24:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 46.3&#176;F at 07/03/2020 05:53:04 AM;
@@ -116,7 +116,7 @@
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     0.00 in
          </description>
-         <pubDate>Tue, 14 Jul 2020 23:19:00 PDT</pubDate>
+         <pubDate>Tue, 14 Jul 2020 23:24:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
