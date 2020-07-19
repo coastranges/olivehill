@@ -7,56 +7,56 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sun, 19 Jul 2020 14:29:00 PDT</pubDate>
+      <pubDate>Sun, 19 Jul 2020 14:34:00 PDT</pubDate>
 
-      <lastBuildDate>Sun, 19 Jul 2020 14:29:00 PDT</lastBuildDate>
+      <lastBuildDate>Sun, 19 Jul 2020 14:34:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.1.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 07/19/2020 02:29:00 PM</title>
+         <title>Weather Conditions at 07/19/2020 02:34:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 83.7&#176;F; 
-           Barometer: 29.939 inHg; 
-           Wind: 10 mph from 202&#176;; 
+           Outside temperature: 82.9&#176;F; 
+           Barometer: 29.942 inHg; 
+           Wind: 11 mph from 180&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 81.0&#176;F
+           Inside temperature: 81.2&#176;F
          </description>
-         <pubDate>Sun, 19 Jul 2020 14:29:00 PDT</pubDate>
+         <pubDate>Sun, 19 Jul 2020 14:34:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                07/19/2020 02:29:00 PM<br/>
-             Outside Temperature: 83.7&#176;F<br/>
-             Inside Temperature:  81.0&#176;F<br/>
-             Wind Chill:          83.7&#176;F<br/>
-             Heat Index:          83.7&#176;F<br/>
-             Dewpoint:            54.6&#176;F<br/>
-             Humidity:            37%<br/>
-             Barometer:           29.939 inHg<br/>
-             Wind:                10 mph from 202&#176;<br/>
+             Time:                07/19/2020 02:34:00 PM<br/>
+             Outside Temperature: 82.9&#176;F<br/>
+             Inside Temperature:  81.2&#176;F<br/>
+             Wind Chill:          82.9&#176;F<br/>
+             Heat Index:          82.9&#176;F<br/>
+             Dewpoint:            54.7&#176;F<br/>
+             Humidity:            38%<br/>
+             Barometer:           29.942 inHg<br/>
+             Wind:                11 mph from 180&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 07/19/2020 02:29:00 PM</title>
+         <title>Daily Weather Summary as of 07/19/2020 02:34:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 52.4&#176;F at 06:26:13 AM;
          	Max outside temperature: 84.4&#176;F at 11:30:27 AM;
 	        Min inside temperature:  73.2&#176;F at 06:36:59 AM;
-	        Max inside temperature:  81.1&#176;F at 02:29:00 PM;
+	        Max inside temperature:  81.2&#176;F at 02:32:00 PM;
 	        Min barometer:           29.938 inHg at 02:21:00 PM;
 	        Max barometer:           29.982 inHg at 08:38:59 AM;
             Max wind :               23 mph from 205&#176; at 01:37:26 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Sun, 19 Jul 2020 14:29:00 PDT</pubDate>
+         <pubDate>Sun, 19 Jul 2020 14:34:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
@@ -65,7 +65,7 @@
 	         Min Outside Temperature: 52.4&#176;F at 06:26:13 AM<br/>
 	         Max Outside Temperature: 84.4&#176;F at 11:30:27 AM<br/>
 	         Min Inside Temperature:  73.2&#176;F at 06:36:59 AM<br/>
-	         Max Inside Temperature:  81.1&#176;F at 02:29:00 PM<br/>
+	         Max Inside Temperature:  81.2&#176;F at 02:32:00 PM<br/>
 	         Min Barometer:           29.938 inHg at 02:21:00 PM<br/>
 	         Max Barometer:           29.982 inHg at 08:38:59 AM<br/>
              Max Wind :               23 mph from 205&#176; at 01:37:26 PM<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 07/19/2020 02:29:00 PM</title>
+         <title>Monthly Weather Summary as of 07/19/2020 02:34:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 46.3&#176;F at 07/03/2020 05:53:04 AM;
@@ -87,7 +87,7 @@
             Max wind :               33 mph from 213&#176; at 07/01/2020 12:57:29 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Sun, 19 Jul 2020 14:29:00 PDT</pubDate>
+         <pubDate>Sun, 19 Jul 2020 14:34:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   July 2020<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 07/19/2020 02:29:00 PM</title>
+         <title>Yearly Weather Summary as of 07/19/2020 02:34:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 46.3&#176;F at 07/03/2020 05:53:04 AM;
@@ -116,7 +116,7 @@
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     0.00 in
          </description>
-         <pubDate>Sun, 19 Jul 2020 14:29:00 PDT</pubDate>
+         <pubDate>Sun, 19 Jul 2020 14:34:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
