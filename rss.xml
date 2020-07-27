@@ -7,75 +7,75 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 27 Jul 2020 09:14:00 PDT</pubDate>
+      <pubDate>Mon, 27 Jul 2020 09:19:00 PDT</pubDate>
 
-      <lastBuildDate>Mon, 27 Jul 2020 09:14:00 PDT</lastBuildDate>
+      <lastBuildDate>Mon, 27 Jul 2020 09:19:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.1.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 07/27/2020 09:14:00 AM</title>
+         <title>Weather Conditions at 07/27/2020 09:19:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 67.5&#176;F; 
-           Barometer: 29.931 inHg; 
-           Wind: 1 mph from 292&#176;; 
+           Outside temperature: 68.2&#176;F; 
+           Barometer: 29.928 inHg; 
+           Wind: 1 mph from 68&#176;; 
            Rain rate: 0.00 in/h; 
            Inside temperature: 75.1&#176;F
          </description>
-         <pubDate>Mon, 27 Jul 2020 09:14:00 PDT</pubDate>
+         <pubDate>Mon, 27 Jul 2020 09:19:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                07/27/2020 09:14:00 AM<br/>
-             Outside Temperature: 67.5&#176;F<br/>
+             Time:                07/27/2020 09:19:00 AM<br/>
+             Outside Temperature: 68.2&#176;F<br/>
              Inside Temperature:  75.1&#176;F<br/>
-             Wind Chill:          67.5&#176;F<br/>
-             Heat Index:          67.5&#176;F<br/>
-             Dewpoint:            54.5&#176;F<br/>
-             Humidity:            63%<br/>
-             Barometer:           29.931 inHg<br/>
-             Wind:                1 mph from 292&#176;<br/>
+             Wind Chill:          68.2&#176;F<br/>
+             Heat Index:          68.2&#176;F<br/>
+             Dewpoint:            54.7&#176;F<br/>
+             Humidity:            62%<br/>
+             Barometer:           29.928 inHg<br/>
+             Wind:                1 mph from 68&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 07/27/2020 09:14:00 AM</title>
+         <title>Daily Weather Summary as of 07/27/2020 09:19:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 53.3&#176;F at 06:25:52 AM;
-         	Max outside temperature: 67.5&#176;F at 09:13:46 AM;
+         	Max outside temperature: 68.2&#176;F at 09:18:24 AM;
 	        Min inside temperature:  73.9&#176;F at 06:33:58 AM;
 	        Max inside temperature:  77.8&#176;F at 12:00:02 AM;
 	        Min barometer:           29.902 inHg at 02:26:58 AM;
 	        Max barometer:           29.947 inHg at 07:53:58 AM;
-            Max wind :               4 mph from 210&#176; at 03:39:46 AM;
+            Max wind :               5 mph from 11&#176; at 09:15:36 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Mon, 27 Jul 2020 09:14:00 PDT</pubDate>
+         <pubDate>Mon, 27 Jul 2020 09:19:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     27 Jul 2020<br/>
 	         Min Outside Temperature: 53.3&#176;F at 06:25:52 AM<br/>
-	         Max Outside Temperature: 67.5&#176;F at 09:13:46 AM<br/>
+	         Max Outside Temperature: 68.2&#176;F at 09:18:24 AM<br/>
 	         Min Inside Temperature:  73.9&#176;F at 06:33:58 AM<br/>
 	         Max Inside Temperature:  77.8&#176;F at 12:00:02 AM<br/>
 	         Min Barometer:           29.902 inHg at 02:26:58 AM<br/>
 	         Max Barometer:           29.947 inHg at 07:53:58 AM<br/>
-             Max Wind :               4 mph from 210&#176; at 03:39:46 AM<br/>
+             Max Wind :               5 mph from 11&#176; at 09:15:36 AM<br/>
              Rain today:              0.00 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 07/27/2020 09:14:00 AM</title>
+         <title>Monthly Weather Summary as of 07/27/2020 09:19:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 46.3&#176;F at 07/03/2020 05:53:04 AM;
@@ -87,7 +87,7 @@
             Max wind :               33 mph from 213&#176; at 07/01/2020 12:57:29 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Mon, 27 Jul 2020 09:14:00 PDT</pubDate>
+         <pubDate>Mon, 27 Jul 2020 09:19:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   July 2020<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 07/27/2020 09:14:00 AM</title>
+         <title>Yearly Weather Summary as of 07/27/2020 09:19:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 46.3&#176;F at 07/03/2020 05:53:04 AM;
@@ -116,7 +116,7 @@
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     0.00 in
          </description>
-         <pubDate>Mon, 27 Jul 2020 09:14:00 PDT</pubDate>
+         <pubDate>Mon, 27 Jul 2020 09:19:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
