@@ -7,48 +7,48 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 17 Aug 2020 13:04:00 PDT</pubDate>
+      <pubDate>Mon, 17 Aug 2020 13:09:00 PDT</pubDate>
 
-      <lastBuildDate>Mon, 17 Aug 2020 13:04:00 PDT</lastBuildDate>
+      <lastBuildDate>Mon, 17 Aug 2020 13:09:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.1.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 08/17/2020 01:04:00 PM</title>
+         <title>Weather Conditions at 08/17/2020 01:09:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 104.5&#176;F; 
-           Barometer: 29.863 inHg; 
-           Wind: 1 mph from 135&#176;; 
+           Outside temperature: 104.9&#176;F; 
+           Barometer: 29.858 inHg; 
+           Wind: 5 mph from 22&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 85.7&#176;F
+           Inside temperature: 85.8&#176;F
          </description>
-         <pubDate>Mon, 17 Aug 2020 13:04:00 PDT</pubDate>
+         <pubDate>Mon, 17 Aug 2020 13:09:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                08/17/2020 01:04:00 PM<br/>
-             Outside Temperature: 104.5&#176;F<br/>
-             Inside Temperature:  85.7&#176;F<br/>
-             Wind Chill:          104.5&#176;F<br/>
-             Heat Index:          104.5&#176;F<br/>
-             Dewpoint:            58.0&#176;F<br/>
-             Humidity:            22%<br/>
-             Barometer:           29.863 inHg<br/>
-             Wind:                1 mph from 135&#176;<br/>
+             Time:                08/17/2020 01:09:00 PM<br/>
+             Outside Temperature: 104.9&#176;F<br/>
+             Inside Temperature:  85.8&#176;F<br/>
+             Wind Chill:          104.9&#176;F<br/>
+             Heat Index:          104.9&#176;F<br/>
+             Dewpoint:            55.7&#176;F<br/>
+             Humidity:            20%<br/>
+             Barometer:           29.858 inHg<br/>
+             Wind:                5 mph from 22&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 08/17/2020 01:04:00 PM</title>
+         <title>Daily Weather Summary as of 08/17/2020 01:09:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 69.8&#176;F at 06:11:05 AM;
-         	Max outside temperature: 104.6&#176;F at 01:03:59 PM;
+         	Max outside temperature: 105.0&#176;F at 01:08:47 PM;
 	        Min inside temperature:  80.9&#176;F at 07:06:57 AM;
 	        Max inside temperature:  86.5&#176;F at 12:00:02 AM;
 	        Min barometer:           29.858 inHg at 01:24:56 AM;
@@ -56,14 +56,14 @@
             Max wind :               9 mph from 26&#176; at 12:31:57 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Mon, 17 Aug 2020 13:04:00 PDT</pubDate>
+         <pubDate>Mon, 17 Aug 2020 13:09:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     17 Aug 2020<br/>
 	         Min Outside Temperature: 69.8&#176;F at 06:11:05 AM<br/>
-	         Max Outside Temperature: 104.6&#176;F at 01:03:59 PM<br/>
+	         Max Outside Temperature: 105.0&#176;F at 01:08:47 PM<br/>
 	         Min Inside Temperature:  80.9&#176;F at 07:06:57 AM<br/>
 	         Max Inside Temperature:  86.5&#176;F at 12:00:02 AM<br/>
 	         Min Barometer:           29.858 inHg at 01:24:56 AM<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 08/17/2020 01:04:00 PM</title>
+         <title>Monthly Weather Summary as of 08/17/2020 01:09:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 51.2&#176;F at 08/06/2020 03:37:39 AM;
@@ -87,7 +87,7 @@
             Max wind :               31 mph from 180&#176; at 08/10/2020 05:03:00 PM;
             Rain total for month:    0.10 in
          </description>
-         <pubDate>Mon, 17 Aug 2020 13:04:00 PDT</pubDate>
+         <pubDate>Mon, 17 Aug 2020 13:09:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   August 2020<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 08/17/2020 01:04:00 PM</title>
+         <title>Yearly Weather Summary as of 08/17/2020 01:09:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 46.3&#176;F at 07/03/2020 05:53:04 AM;
@@ -116,7 +116,7 @@
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     0.10 in
          </description>
-         <pubDate>Mon, 17 Aug 2020 13:04:00 PDT</pubDate>
+         <pubDate>Mon, 17 Aug 2020 13:09:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
