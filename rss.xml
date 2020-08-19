@@ -7,66 +7,66 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 19 Aug 2020 02:34:00 PDT</pubDate>
+      <pubDate>Wed, 19 Aug 2020 02:39:00 PDT</pubDate>
 
-      <lastBuildDate>Wed, 19 Aug 2020 02:34:00 PDT</lastBuildDate>
+      <lastBuildDate>Wed, 19 Aug 2020 02:39:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.1.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 08/19/2020 02:34:00 AM</title>
+         <title>Weather Conditions at 08/19/2020 02:39:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 79.7&#176;F; 
-           Barometer: 29.853 inHg; 
-           Wind: 3 mph from 22&#176;; 
+           Outside temperature: 79.0&#176;F; 
+           Barometer: 29.852 inHg; 
+           Wind: 4 mph from 22&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 87.2&#176;F
+           Inside temperature: 87.1&#176;F
          </description>
-         <pubDate>Wed, 19 Aug 2020 02:34:00 PDT</pubDate>
+         <pubDate>Wed, 19 Aug 2020 02:39:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                08/19/2020 02:34:00 AM<br/>
-             Outside Temperature: 79.7&#176;F<br/>
-             Inside Temperature:  87.2&#176;F<br/>
-             Wind Chill:          79.7&#176;F<br/>
-             Heat Index:          79.7&#176;F<br/>
-             Dewpoint:            51.8&#176;F<br/>
-             Humidity:            38%<br/>
-             Barometer:           29.853 inHg<br/>
-             Wind:                3 mph from 22&#176;<br/>
+             Time:                08/19/2020 02:39:00 AM<br/>
+             Outside Temperature: 79.0&#176;F<br/>
+             Inside Temperature:  87.1&#176;F<br/>
+             Wind Chill:          79.0&#176;F<br/>
+             Heat Index:          79.0&#176;F<br/>
+             Dewpoint:            51.9&#176;F<br/>
+             Humidity:            39%<br/>
+             Barometer:           29.852 inHg<br/>
+             Wind:                4 mph from 22&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 08/19/2020 02:34:00 AM</title>
+         <title>Daily Weather Summary as of 08/19/2020 02:39:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature: 79.7&#176;F at 02:33:42 AM;
+	        Min outside temperature: 79.0&#176;F at 02:38:28 AM;
          	Max outside temperature: 86.3&#176;F at 02:02:06 AM;
-	        Min inside temperature:  87.2&#176;F at 02:29:56 AM;
+	        Min inside temperature:  87.1&#176;F at 02:34:56 AM;
 	        Max inside temperature:  88.4&#176;F at 12:00:02 AM;
-	        Min barometer:           29.850 inHg at 02:33:56 AM;
+	        Min barometer:           29.848 inHg at 02:38:56 AM;
 	        Max barometer:           29.875 inHg at 12:08:56 AM;
             Max wind :               11 mph from 293&#176; at 01:21:24 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Wed, 19 Aug 2020 02:34:00 PDT</pubDate>
+         <pubDate>Wed, 19 Aug 2020 02:39:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     19 Aug 2020<br/>
-	         Min Outside Temperature: 79.7&#176;F at 02:33:42 AM<br/>
+	         Min Outside Temperature: 79.0&#176;F at 02:38:28 AM<br/>
 	         Max Outside Temperature: 86.3&#176;F at 02:02:06 AM<br/>
-	         Min Inside Temperature:  87.2&#176;F at 02:29:56 AM<br/>
+	         Min Inside Temperature:  87.1&#176;F at 02:34:56 AM<br/>
 	         Max Inside Temperature:  88.4&#176;F at 12:00:02 AM<br/>
-	         Min Barometer:           29.850 inHg at 02:33:56 AM<br/>
+	         Min Barometer:           29.848 inHg at 02:38:56 AM<br/>
 	         Max Barometer:           29.875 inHg at 12:08:56 AM<br/>
              Max Wind :               11 mph from 293&#176; at 01:21:24 AM<br/>
              Rain today:              0.00 in<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 08/19/2020 02:34:00 AM</title>
+         <title>Monthly Weather Summary as of 08/19/2020 02:39:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 51.2&#176;F at 08/06/2020 03:37:39 AM;
@@ -87,7 +87,7 @@
             Max wind :               31 mph from 180&#176; at 08/10/2020 05:03:00 PM;
             Rain total for month:    0.10 in
          </description>
-         <pubDate>Wed, 19 Aug 2020 02:34:00 PDT</pubDate>
+         <pubDate>Wed, 19 Aug 2020 02:39:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   August 2020<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 08/19/2020 02:34:00 AM</title>
+         <title>Yearly Weather Summary as of 08/19/2020 02:39:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 46.3&#176;F at 07/03/2020 05:53:04 AM;
@@ -116,7 +116,7 @@
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     0.10 in
          </description>
-         <pubDate>Wed, 19 Aug 2020 02:34:00 PDT</pubDate>
+         <pubDate>Wed, 19 Aug 2020 02:39:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
