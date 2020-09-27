@@ -7,44 +7,44 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sat, 26 Sep 2020 22:54:00 PDT</pubDate>
+      <pubDate>Sat, 26 Sep 2020 22:59:00 PDT</pubDate>
 
-      <lastBuildDate>Sat, 26 Sep 2020 22:54:00 PDT</lastBuildDate>
+      <lastBuildDate>Sat, 26 Sep 2020 22:59:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.1.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 09/26/2020 10:54:00 PM</title>
+         <title>Weather Conditions at 09/26/2020 10:59:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 72.7&#176;F; 
-           Barometer: 29.882 inHg; 
-           Wind: 3 mph from 0&#176;; 
+           Outside temperature: 72.8&#176;F; 
+           Barometer: 29.884 inHg; 
+           Wind: 1 mph from 45&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 78.6&#176;F
+           Inside temperature: 78.5&#176;F
          </description>
-         <pubDate>Sat, 26 Sep 2020 22:54:00 PDT</pubDate>
+         <pubDate>Sat, 26 Sep 2020 22:59:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                09/26/2020 10:54:00 PM<br/>
-             Outside Temperature: 72.7&#176;F<br/>
-             Inside Temperature:  78.6&#176;F<br/>
-             Wind Chill:          72.7&#176;F<br/>
-             Heat Index:          72.7&#176;F<br/>
-             Dewpoint:            54.6&#176;F<br/>
+             Time:                09/26/2020 10:59:00 PM<br/>
+             Outside Temperature: 72.8&#176;F<br/>
+             Inside Temperature:  78.5&#176;F<br/>
+             Wind Chill:          72.8&#176;F<br/>
+             Heat Index:          72.8&#176;F<br/>
+             Dewpoint:            54.7&#176;F<br/>
              Humidity:            53%<br/>
-             Barometer:           29.882 inHg<br/>
-             Wind:                3 mph from 0&#176;<br/>
+             Barometer:           29.884 inHg<br/>
+             Wind:                1 mph from 45&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 09/26/2020 10:54:00 PM</title>
+         <title>Daily Weather Summary as of 09/26/2020 10:59:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 53.2&#176;F at 07:10:50 AM;
@@ -56,7 +56,7 @@
             Max wind :               18 mph from 298&#176; at 07:19:45 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Sat, 26 Sep 2020 22:54:00 PDT</pubDate>
+         <pubDate>Sat, 26 Sep 2020 22:59:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 09/26/2020 10:54:00 PM</title>
+         <title>Monthly Weather Summary as of 09/26/2020 10:59:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 45.6&#176;F at 09/12/2020 07:15:43 AM;
@@ -87,7 +87,7 @@
             Max wind :               23 mph from 202&#176; at 09/12/2020 04:18:20 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Sat, 26 Sep 2020 22:54:00 PDT</pubDate>
+         <pubDate>Sat, 26 Sep 2020 22:59:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   September 2020<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 09/26/2020 10:54:00 PM</title>
+         <title>Yearly Weather Summary as of 09/26/2020 10:59:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 45.6&#176;F at 09/12/2020 07:15:43 AM;
@@ -116,7 +116,7 @@
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     0.10 in
          </description>
-         <pubDate>Sat, 26 Sep 2020 22:54:00 PDT</pubDate>
+         <pubDate>Sat, 26 Sep 2020 22:59:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
