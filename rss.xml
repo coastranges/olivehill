@@ -7,44 +7,44 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 28 Sep 2020 09:34:00 PDT</pubDate>
+      <pubDate>Mon, 28 Sep 2020 09:39:00 PDT</pubDate>
 
-      <lastBuildDate>Mon, 28 Sep 2020 09:34:00 PDT</lastBuildDate>
+      <lastBuildDate>Mon, 28 Sep 2020 09:39:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.1.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 09/28/2020 09:34:00 AM</title>
+         <title>Weather Conditions at 09/28/2020 09:39:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 71.3&#176;F; 
-           Barometer: 29.915 inHg; 
-           Wind: 3 mph from 22&#176;; 
+           Outside temperature: 72.2&#176;F; 
+           Barometer: 29.914 inHg; 
+           Wind: 2 mph from 22&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 76.8&#176;F
+           Inside temperature: 77.0&#176;F
          </description>
-         <pubDate>Mon, 28 Sep 2020 09:34:00 PDT</pubDate>
+         <pubDate>Mon, 28 Sep 2020 09:39:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                09/28/2020 09:34:00 AM<br/>
-             Outside Temperature: 71.3&#176;F<br/>
-             Inside Temperature:  76.8&#176;F<br/>
-             Wind Chill:          71.3&#176;F<br/>
-             Heat Index:          71.3&#176;F<br/>
-             Dewpoint:            52.8&#176;F<br/>
-             Humidity:            52%<br/>
-             Barometer:           29.915 inHg<br/>
-             Wind:                3 mph from 22&#176;<br/>
+             Time:                09/28/2020 09:39:00 AM<br/>
+             Outside Temperature: 72.2&#176;F<br/>
+             Inside Temperature:  77.0&#176;F<br/>
+             Wind Chill:          72.2&#176;F<br/>
+             Heat Index:          72.2&#176;F<br/>
+             Dewpoint:            53.1&#176;F<br/>
+             Humidity:            51%<br/>
+             Barometer:           29.914 inHg<br/>
+             Wind:                2 mph from 22&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 09/28/2020 09:34:00 AM</title>
+         <title>Daily Weather Summary as of 09/28/2020 09:39:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 59.2&#176;F at 07:15:02 AM;
@@ -52,11 +52,11 @@
 	        Min inside temperature:  74.0&#176;F at 07:21:00 AM;
 	        Max inside temperature:  79.8&#176;F at 12:00:03 AM;
 	        Min barometer:           29.851 inHg at 12:00:03 AM;
-	        Max barometer:           29.916 inHg at 09:30:00 AM;
+	        Max barometer:           29.917 inHg at 09:36:00 AM;
             Max wind :               4 mph from 340&#176; at 12:14:51 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Mon, 28 Sep 2020 09:34:00 PDT</pubDate>
+         <pubDate>Mon, 28 Sep 2020 09:39:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
@@ -67,7 +67,7 @@
 	         Min Inside Temperature:  74.0&#176;F at 07:21:00 AM<br/>
 	         Max Inside Temperature:  79.8&#176;F at 12:00:03 AM<br/>
 	         Min Barometer:           29.851 inHg at 12:00:03 AM<br/>
-	         Max Barometer:           29.916 inHg at 09:30:00 AM<br/>
+	         Max Barometer:           29.917 inHg at 09:36:00 AM<br/>
              Max Wind :               4 mph from 340&#176; at 12:14:51 AM<br/>
              Rain today:              0.00 in<br/>
         </p>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 09/28/2020 09:34:00 AM</title>
+         <title>Monthly Weather Summary as of 09/28/2020 09:39:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 45.6&#176;F at 09/12/2020 07:15:43 AM;
@@ -87,7 +87,7 @@
             Max wind :               23 mph from 202&#176; at 09/12/2020 04:18:20 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Mon, 28 Sep 2020 09:34:00 PDT</pubDate>
+         <pubDate>Mon, 28 Sep 2020 09:39:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   September 2020<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 09/28/2020 09:34:00 AM</title>
+         <title>Yearly Weather Summary as of 09/28/2020 09:39:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 45.6&#176;F at 09/12/2020 07:15:43 AM;
@@ -116,7 +116,7 @@
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     0.10 in
          </description>
-         <pubDate>Mon, 28 Sep 2020 09:34:00 PDT</pubDate>
+         <pubDate>Mon, 28 Sep 2020 09:39:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
