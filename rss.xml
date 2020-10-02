@@ -7,66 +7,66 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Fri, 02 Oct 2020 14:39:00 PDT</pubDate>
+      <pubDate>Fri, 02 Oct 2020 14:44:00 PDT</pubDate>
 
-      <lastBuildDate>Fri, 02 Oct 2020 14:39:00 PDT</lastBuildDate>
+      <lastBuildDate>Fri, 02 Oct 2020 14:44:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.1.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 10/02/2020 02:39:00 PM</title>
+         <title>Weather Conditions at 10/02/2020 02:44:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 99.3&#176;F; 
-           Barometer: 29.859 inHg; 
-           Wind: 8 mph from 0&#176;; 
+           Outside temperature: 99.5&#176;F; 
+           Barometer: 29.858 inHg; 
+           Wind: 3 mph from 338&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 83.0&#176;F
+           Inside temperature: 83.1&#176;F
          </description>
-         <pubDate>Fri, 02 Oct 2020 14:39:00 PDT</pubDate>
+         <pubDate>Fri, 02 Oct 2020 14:44:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                10/02/2020 02:39:00 PM<br/>
-             Outside Temperature: 99.3&#176;F<br/>
-             Inside Temperature:  83.0&#176;F<br/>
-             Wind Chill:          99.3&#176;F<br/>
-             Heat Index:          99.3&#176;F<br/>
-             Dewpoint:            39.7&#176;F<br/>
-             Humidity:            13%<br/>
-             Barometer:           29.859 inHg<br/>
-             Wind:                8 mph from 0&#176;<br/>
+             Time:                10/02/2020 02:44:00 PM<br/>
+             Outside Temperature: 99.5&#176;F<br/>
+             Inside Temperature:  83.1&#176;F<br/>
+             Wind Chill:          99.5&#176;F<br/>
+             Heat Index:          99.5&#176;F<br/>
+             Dewpoint:            37.9&#176;F<br/>
+             Humidity:            12%<br/>
+             Barometer:           29.858 inHg<br/>
+             Wind:                3 mph from 338&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 10/02/2020 02:39:00 PM</title>
+         <title>Daily Weather Summary as of 10/02/2020 02:44:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 57.7&#176;F at 07:40:27 AM;
-         	Max outside temperature: 99.4&#176;F at 02:38:30 PM;
+         	Max outside temperature: 99.5&#176;F at 02:40:12 PM;
 	        Min inside temperature:  75.3&#176;F at 08:55:00 AM;
-	        Max inside temperature:  83.1&#176;F at 02:39:00 PM;
-	        Min barometer:           29.859 inHg at 02:38:00 PM;
+	        Max inside temperature:  83.2&#176;F at 02:44:00 PM;
+	        Min barometer:           29.857 inHg at 02:42:00 PM;
 	        Max barometer:           29.982 inHg at 08:47:00 AM;
             Max wind :               15 mph from 311&#176; at 01:39:42 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Fri, 02 Oct 2020 14:39:00 PDT</pubDate>
+         <pubDate>Fri, 02 Oct 2020 14:44:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     02 Oct 2020<br/>
 	         Min Outside Temperature: 57.7&#176;F at 07:40:27 AM<br/>
-	         Max Outside Temperature: 99.4&#176;F at 02:38:30 PM<br/>
+	         Max Outside Temperature: 99.5&#176;F at 02:40:12 PM<br/>
 	         Min Inside Temperature:  75.3&#176;F at 08:55:00 AM<br/>
-	         Max Inside Temperature:  83.1&#176;F at 02:39:00 PM<br/>
-	         Min Barometer:           29.859 inHg at 02:38:00 PM<br/>
+	         Max Inside Temperature:  83.2&#176;F at 02:44:00 PM<br/>
+	         Min Barometer:           29.857 inHg at 02:42:00 PM<br/>
 	         Max Barometer:           29.982 inHg at 08:47:00 AM<br/>
              Max Wind :               15 mph from 311&#176; at 01:39:42 PM<br/>
              Rain today:              0.00 in<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 10/02/2020 02:39:00 PM</title>
+         <title>Monthly Weather Summary as of 10/02/2020 02:44:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 56.3&#176;F at 10/01/2020 07:37:06 AM;
@@ -87,7 +87,7 @@
             Max wind :               15 mph from 311&#176; at 10/02/2020 01:39:42 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Fri, 02 Oct 2020 14:39:00 PDT</pubDate>
+         <pubDate>Fri, 02 Oct 2020 14:44:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   October 2020<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 10/02/2020 02:39:00 PM</title>
+         <title>Yearly Weather Summary as of 10/02/2020 02:44:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 45.6&#176;F at 09/12/2020 07:15:43 AM;
@@ -116,7 +116,7 @@
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     0.10 in
          </description>
-         <pubDate>Fri, 02 Oct 2020 14:39:00 PDT</pubDate>
+         <pubDate>Fri, 02 Oct 2020 14:44:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
