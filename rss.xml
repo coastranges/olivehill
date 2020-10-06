@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Tue, 06 Oct 2020 02:24:00 PDT</pubDate>
+      <pubDate>Tue, 06 Oct 2020 02:29:00 PDT</pubDate>
 
-      <lastBuildDate>Tue, 06 Oct 2020 02:24:00 PDT</lastBuildDate>
+      <lastBuildDate>Tue, 06 Oct 2020 02:29:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.1.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 10/06/2020 02:24:00 AM</title>
+         <title>Weather Conditions at 10/06/2020 02:29:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 57.0&#176;F; 
-           Barometer: 29.977 inHg; 
+           Outside temperature: 56.6&#176;F; 
+           Barometer: 29.976 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 75.2&#176;F
+           Inside temperature: 75.3&#176;F
          </description>
-         <pubDate>Tue, 06 Oct 2020 02:24:00 PDT</pubDate>
+         <pubDate>Tue, 06 Oct 2020 02:29:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                10/06/2020 02:24:00 AM<br/>
-             Outside Temperature: 57.0&#176;F<br/>
-             Inside Temperature:  75.2&#176;F<br/>
-             Wind Chill:          57.0&#176;F<br/>
-             Heat Index:          57.0&#176;F<br/>
-             Dewpoint:            40.0&#176;F<br/>
+             Time:                10/06/2020 02:29:00 AM<br/>
+             Outside Temperature: 56.6&#176;F<br/>
+             Inside Temperature:  75.3&#176;F<br/>
+             Wind Chill:          56.6&#176;F<br/>
+             Heat Index:          56.6&#176;F<br/>
+             Dewpoint:            39.7&#176;F<br/>
              Humidity:            53%<br/>
-             Barometer:           29.977 inHg<br/>
+             Barometer:           29.976 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
@@ -44,10 +44,10 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 10/06/2020 02:24:00 AM</title>
+         <title>Daily Weather Summary as of 10/06/2020 02:29:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature: 57.0&#176;F at 02:22:13 AM;
+	        Min outside temperature: 56.6&#176;F at 02:28:33 AM;
          	Max outside temperature: 62.4&#176;F at 12:00:14 AM;
 	        Min inside temperature:  73.8&#176;F at 01:03:58 AM;
 	        Max inside temperature:  77.1&#176;F at 12:00:03 AM;
@@ -56,13 +56,13 @@
             Max wind :               2 mph from 229&#176; at 12:00:03 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Tue, 06 Oct 2020 02:24:00 PDT</pubDate>
+         <pubDate>Tue, 06 Oct 2020 02:29:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     06 Oct 2020<br/>
-	         Min Outside Temperature: 57.0&#176;F at 02:22:13 AM<br/>
+	         Min Outside Temperature: 56.6&#176;F at 02:28:33 AM<br/>
 	         Max Outside Temperature: 62.4&#176;F at 12:00:14 AM<br/>
 	         Min Inside Temperature:  73.8&#176;F at 01:03:58 AM<br/>
 	         Max Inside Temperature:  77.1&#176;F at 12:00:03 AM<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 10/06/2020 02:24:00 AM</title>
+         <title>Monthly Weather Summary as of 10/06/2020 02:29:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 51.9&#176;F at 10/05/2020 07:13:11 AM;
@@ -87,7 +87,7 @@
             Max wind :               18 mph from 244&#176; at 10/05/2020 04:47:14 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Tue, 06 Oct 2020 02:24:00 PDT</pubDate>
+         <pubDate>Tue, 06 Oct 2020 02:29:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   October 2020<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 10/06/2020 02:24:00 AM</title>
+         <title>Yearly Weather Summary as of 10/06/2020 02:29:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 45.6&#176;F at 09/12/2020 07:15:43 AM;
@@ -116,7 +116,7 @@
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     0.10 in
          </description>
-         <pubDate>Tue, 06 Oct 2020 02:24:00 PDT</pubDate>
+         <pubDate>Tue, 06 Oct 2020 02:29:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
