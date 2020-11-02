@@ -7,65 +7,65 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 02 Nov 2020 14:09:00 PST</pubDate>
+      <pubDate>Mon, 02 Nov 2020 14:14:00 PST</pubDate>
 
-      <lastBuildDate>Mon, 02 Nov 2020 14:09:00 PST</lastBuildDate>
+      <lastBuildDate>Mon, 02 Nov 2020 14:14:00 PST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.1.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 11/02/2020 02:09:00 PM</title>
+         <title>Weather Conditions at 11/02/2020 02:14:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 86.9&#176;F; 
-           Barometer: 29.982 inHg; 
-           Wind: 3 mph from 202&#176;; 
+           Outside temperature: 87.5&#176;F; 
+           Barometer: 29.981 inHg; 
+           Wind: 2 mph from 202&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 74.4&#176;F
+           Inside temperature: 74.7&#176;F
          </description>
-         <pubDate>Mon, 02 Nov 2020 14:09:00 PST</pubDate>
+         <pubDate>Mon, 02 Nov 2020 14:14:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                11/02/2020 02:09:00 PM<br/>
-             Outside Temperature: 86.9&#176;F<br/>
-             Inside Temperature:  74.4&#176;F<br/>
-             Wind Chill:          86.9&#176;F<br/>
-             Heat Index:          86.9&#176;F<br/>
-             Dewpoint:            33.7&#176;F<br/>
+             Time:                11/02/2020 02:14:00 PM<br/>
+             Outside Temperature: 87.5&#176;F<br/>
+             Inside Temperature:  74.7&#176;F<br/>
+             Wind Chill:          87.5&#176;F<br/>
+             Heat Index:          87.5&#176;F<br/>
+             Dewpoint:            34.1&#176;F<br/>
              Humidity:            15%<br/>
-             Barometer:           29.982 inHg<br/>
-             Wind:                3 mph from 202&#176;<br/>
+             Barometer:           29.981 inHg<br/>
+             Wind:                2 mph from 202&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 11/02/2020 02:09:00 PM</title>
+         <title>Daily Weather Summary as of 11/02/2020 02:14:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 44.1&#176;F at 06:51:49 AM;
-         	Max outside temperature: 86.9&#176;F at 02:08:08 PM;
+         	Max outside temperature: 87.5&#176;F at 02:13:26 PM;
 	        Min inside temperature:  69.1&#176;F at 06:58:58 AM;
-	        Max inside temperature:  74.5&#176;F at 02:08:58 PM;
+	        Max inside temperature:  74.7&#176;F at 02:12:58 PM;
 	        Min barometer:           29.977 inHg at 01:37:58 PM;
 	        Max barometer:           30.122 inHg at 08:28:58 AM;
             Max wind :               7 mph from 17&#176; at 11:09:14 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Mon, 02 Nov 2020 14:09:00 PST</pubDate>
+         <pubDate>Mon, 02 Nov 2020 14:14:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     02 Nov 2020<br/>
 	         Min Outside Temperature: 44.1&#176;F at 06:51:49 AM<br/>
-	         Max Outside Temperature: 86.9&#176;F at 02:08:08 PM<br/>
+	         Max Outside Temperature: 87.5&#176;F at 02:13:26 PM<br/>
 	         Min Inside Temperature:  69.1&#176;F at 06:58:58 AM<br/>
-	         Max Inside Temperature:  74.5&#176;F at 02:08:58 PM<br/>
+	         Max Inside Temperature:  74.7&#176;F at 02:12:58 PM<br/>
 	         Min Barometer:           29.977 inHg at 01:37:58 PM<br/>
 	         Max Barometer:           30.122 inHg at 08:28:58 AM<br/>
              Max Wind :               7 mph from 17&#176; at 11:09:14 AM<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 11/02/2020 02:09:00 PM</title>
+         <title>Monthly Weather Summary as of 11/02/2020 02:14:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 42.7&#176;F at 11/01/2020 06:38:54 AM;
@@ -87,7 +87,7 @@
             Max wind :               19 mph from 180&#176; at 11/01/2020 04:09:00 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Mon, 02 Nov 2020 14:09:00 PST</pubDate>
+         <pubDate>Mon, 02 Nov 2020 14:14:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   November 2020<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 11/02/2020 02:09:00 PM</title>
+         <title>Yearly Weather Summary as of 11/02/2020 02:14:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 35.0&#176;F at 10/27/2020 07:41:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     0.10 in
          </description>
-         <pubDate>Mon, 02 Nov 2020 14:09:00 PST</pubDate>
+         <pubDate>Mon, 02 Nov 2020 14:14:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
