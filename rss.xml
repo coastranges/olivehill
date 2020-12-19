@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sat, 19 Dec 2020 05:59:00 PST</pubDate>
+      <pubDate>Sat, 19 Dec 2020 06:04:00 PST</pubDate>
 
-      <lastBuildDate>Sat, 19 Dec 2020 05:59:00 PST</lastBuildDate>
+      <lastBuildDate>Sat, 19 Dec 2020 06:04:00 PST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.2.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 12/19/2020 05:59:00 AM</title>
+         <title>Weather Conditions at 12/19/2020 06:04:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 31.9&#176;F; 
-           Barometer: 30.379 inHg; 
+           Outside temperature: 31.6&#176;F; 
+           Barometer: 30.380 inHg; 
            Wind: 3 mph from 0&#176;; 
            Rain rate: 0.00 in/h; 
            Inside temperature: 63.8&#176;F
          </description>
-         <pubDate>Sat, 19 Dec 2020 05:59:00 PST</pubDate>
+         <pubDate>Sat, 19 Dec 2020 06:04:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                12/19/2020 05:59:00 AM<br/>
-             Outside Temperature: 31.9&#176;F<br/>
+             Time:                12/19/2020 06:04:00 AM<br/>
+             Outside Temperature: 31.6&#176;F<br/>
              Inside Temperature:  63.8&#176;F<br/>
-             Wind Chill:          31.9&#176;F<br/>
-             Heat Index:          31.9&#176;F<br/>
-             Dewpoint:            27.9&#176;F<br/>
+             Wind Chill:          31.6&#176;F<br/>
+             Heat Index:          31.6&#176;F<br/>
+             Dewpoint:            27.6&#176;F<br/>
              Humidity:            85%<br/>
-             Barometer:           30.379 inHg<br/>
+             Barometer:           30.380 inHg<br/>
              Wind:                3 mph from 0&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 12/19/2020 05:59:00 AM</title>
+         <title>Daily Weather Summary as of 12/19/2020 06:04:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 31.6&#176;F at 04:43:40 AM;
@@ -52,11 +52,11 @@
 	        Min inside temperature:  63.8&#176;F at 05:57:58 AM;
 	        Max inside temperature:  70.1&#176;F at 12:00:01 AM;
 	        Min barometer:           30.342 inHg at 12:00:01 AM;
-	        Max barometer:           30.381 inHg at 05:47:58 AM;
+	        Max barometer:           30.382 inHg at 06:03:58 AM;
             Max wind :               9 mph from 351&#176; at 02:13:29 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Sat, 19 Dec 2020 05:59:00 PST</pubDate>
+         <pubDate>Sat, 19 Dec 2020 06:04:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
@@ -67,7 +67,7 @@
 	         Min Inside Temperature:  63.8&#176;F at 05:57:58 AM<br/>
 	         Max Inside Temperature:  70.1&#176;F at 12:00:01 AM<br/>
 	         Min Barometer:           30.342 inHg at 12:00:01 AM<br/>
-	         Max Barometer:           30.381 inHg at 05:47:58 AM<br/>
+	         Max Barometer:           30.382 inHg at 06:03:58 AM<br/>
              Max Wind :               9 mph from 351&#176; at 02:13:29 AM<br/>
              Rain today:              0.00 in<br/>
         </p>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 12/19/2020 05:59:00 AM</title>
+         <title>Monthly Weather Summary as of 12/19/2020 06:04:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 29.9&#176;F at 12/06/2020 07:35:26 AM;
@@ -83,11 +83,11 @@
 	        Min inside temperature:  62.3&#176;F at 12/07/2020 06:24:58 AM;
 	        Max inside temperature:  81.1&#176;F at 12/02/2020 07:52:00 PM;
 	        Min barometer:           29.935 inHg at 12/10/2020 01:58:58 AM;
-	        Max barometer:           30.381 inHg at 12/19/2020 05:47:58 AM;
+	        Max barometer:           30.382 inHg at 12/19/2020 06:03:58 AM;
             Max wind :               23 mph from 225&#176; at 12/13/2020 02:56:00 PM;
             Rain total for month:    0.03 in
          </description>
-         <pubDate>Sat, 19 Dec 2020 05:59:00 PST</pubDate>
+         <pubDate>Sat, 19 Dec 2020 06:04:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   December 2020<br/>
@@ -96,7 +96,7 @@
 	         Max Inside Temperature:  81.1&#176;F at 12/02/2020 07:52:00 PM<br/>
 	         Min Inside Temperature:  62.3&#176;F at 12/07/2020 06:24:58 AM<br/>
 	         Min Barometer:           29.935 inHg at 12/10/2020 01:58:58 AM<br/>
-	         Max Barometer:           30.381 inHg at 12/19/2020 05:47:58 AM<br/>
+	         Max Barometer:           30.382 inHg at 12/19/2020 06:03:58 AM<br/>
              Max Wind :               23 mph from 225&#176; at 12/13/2020 02:56:00 PM<br/>
              Rain total for month:    0.03 in<br/>
         </p>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 12/19/2020 05:59:00 AM</title>
+         <title>Yearly Weather Summary as of 12/19/2020 06:04:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 26.3&#176;F at 11/28/2020 07:16:03 AM;
@@ -112,11 +112,11 @@
 	        Min inside temperature:  58.2&#176;F at 11/09/2020 06:39:00 AM;
 	        Max inside temperature:  101.9&#176;F at 09/03/2020 04:03:02 PM;
 	        Min barometer:           29.560 inHg at 09/08/2020 03:40:02 PM;
-	        Max barometer:           30.381 inHg at 12/19/2020 05:47:58 AM;
+	        Max barometer:           30.382 inHg at 12/19/2020 06:03:58 AM;
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     0.40 in
          </description>
-         <pubDate>Sat, 19 Dec 2020 05:59:00 PST</pubDate>
+         <pubDate>Sat, 19 Dec 2020 06:04:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
@@ -125,7 +125,7 @@
 	         Max Inside Temperature:  101.9&#176;F at 09/03/2020 04:03:02 PM<br/>
 	         Min Inside Temperature:  58.2&#176;F at 11/09/2020 06:39:00 AM<br/>
 	         Min Barometer:           29.560 inHg at 09/08/2020 03:40:02 PM<br/>
-	         Max Barometer:           30.381 inHg at 12/19/2020 05:47:58 AM<br/>
+	         Max Barometer:           30.382 inHg at 12/19/2020 06:03:58 AM<br/>
              Max Wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM<br/>
              Rain total for year:     0.40 in<br/>
         </p>
