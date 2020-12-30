@@ -7,56 +7,56 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 30 Dec 2020 12:14:00 PST</pubDate>
+      <pubDate>Wed, 30 Dec 2020 12:19:00 PST</pubDate>
 
-      <lastBuildDate>Wed, 30 Dec 2020 12:14:00 PST</lastBuildDate>
+      <lastBuildDate>Wed, 30 Dec 2020 12:19:00 PST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.2.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 12/30/2020 12:14:00 PM</title>
+         <title>Weather Conditions at 12/30/2020 12:19:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 51.2&#176;F; 
-           Barometer: 30.335 inHg; 
-           Wind: 3 mph from 0&#176;; 
+           Outside temperature: 51.3&#176;F; 
+           Barometer: 30.326 inHg; 
+           Wind: 1 mph from 68&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 69.7&#176;F
+           Inside temperature: 69.6&#176;F
          </description>
-         <pubDate>Wed, 30 Dec 2020 12:14:00 PST</pubDate>
+         <pubDate>Wed, 30 Dec 2020 12:19:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                12/30/2020 12:14:00 PM<br/>
-             Outside Temperature: 51.2&#176;F<br/>
-             Inside Temperature:  69.7&#176;F<br/>
-             Wind Chill:          51.2&#176;F<br/>
-             Heat Index:          49.1&#176;F<br/>
-             Dewpoint:            40.2&#176;F<br/>
-             Humidity:            66%<br/>
-             Barometer:           30.335 inHg<br/>
-             Wind:                3 mph from 0&#176;<br/>
+             Time:                12/30/2020 12:19:00 PM<br/>
+             Outside Temperature: 51.3&#176;F<br/>
+             Inside Temperature:  69.6&#176;F<br/>
+             Wind Chill:          51.3&#176;F<br/>
+             Heat Index:          49.3&#176;F<br/>
+             Dewpoint:            40.7&#176;F<br/>
+             Humidity:            67%<br/>
+             Barometer:           30.326 inHg<br/>
+             Wind:                1 mph from 68&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 12/30/2020 12:14:00 PM</title>
+         <title>Daily Weather Summary as of 12/30/2020 12:19:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 28.2&#176;F at 07:25:37 AM;
          	Max outside temperature: 51.3&#176;F at 12:14:00 PM;
 	        Min inside temperature:  63.8&#176;F at 06:15:57 AM;
 	        Max inside temperature:  75.8&#176;F at 09:58:58 AM;
-	        Min barometer:           30.329 inHg at 12:05:58 PM;
+	        Min barometer:           30.326 inHg at 12:17:58 PM;
 	        Max barometer:           30.399 inHg at 09:41:58 AM;
             Max wind :               8 mph from 340&#176; at 02:04:41 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Wed, 30 Dec 2020 12:14:00 PST</pubDate>
+         <pubDate>Wed, 30 Dec 2020 12:19:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
@@ -66,7 +66,7 @@
 	         Max Outside Temperature: 51.3&#176;F at 12:14:00 PM<br/>
 	         Min Inside Temperature:  63.8&#176;F at 06:15:57 AM<br/>
 	         Max Inside Temperature:  75.8&#176;F at 09:58:58 AM<br/>
-	         Min Barometer:           30.329 inHg at 12:05:58 PM<br/>
+	         Min Barometer:           30.326 inHg at 12:17:58 PM<br/>
 	         Max Barometer:           30.399 inHg at 09:41:58 AM<br/>
              Max Wind :               8 mph from 340&#176; at 02:04:41 AM<br/>
              Rain today:              0.00 in<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 12/30/2020 12:14:00 PM</title>
+         <title>Monthly Weather Summary as of 12/30/2020 12:19:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 27.3&#176;F at 12/22/2020 07:28:56 AM;
@@ -87,7 +87,7 @@
             Max wind :               23 mph from 225&#176; at 12/13/2020 02:56:00 PM;
             Rain total for month:    0.91 in
          </description>
-         <pubDate>Wed, 30 Dec 2020 12:14:00 PST</pubDate>
+         <pubDate>Wed, 30 Dec 2020 12:19:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   December 2020<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 12/30/2020 12:14:00 PM</title>
+         <title>Yearly Weather Summary as of 12/30/2020 12:19:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 26.3&#176;F at 11/28/2020 07:16:03 AM;
@@ -116,7 +116,7 @@
             Max wind :               33 mph from 221&#176; at 06/22/2020 04:54:36 PM;
             Rain total for year:     1.28 in
          </description>
-         <pubDate>Wed, 30 Dec 2020 12:14:00 PST</pubDate>
+         <pubDate>Wed, 30 Dec 2020 12:19:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2020<br/>
