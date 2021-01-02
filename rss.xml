@@ -7,56 +7,56 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sat, 02 Jan 2021 03:04:00 PST</pubDate>
+      <pubDate>Sat, 02 Jan 2021 03:09:00 PST</pubDate>
 
-      <lastBuildDate>Sat, 02 Jan 2021 03:04:00 PST</lastBuildDate>
+      <lastBuildDate>Sat, 02 Jan 2021 03:09:00 PST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.2.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 01/02/2021 03:04:00 AM</title>
+         <title>Weather Conditions at 01/02/2021 03:09:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 36.9&#176;F; 
-           Barometer: 30.247 inHg; 
-           Wind: 2 mph from 338&#176;; 
+           Outside temperature: 36.8&#176;F; 
+           Barometer: 30.246 inHg; 
+           Wind: 2 mph from 22&#176;; 
            Rain rate: 0.00 in/h; 
            Inside temperature: 66.7&#176;F
          </description>
-         <pubDate>Sat, 02 Jan 2021 03:04:00 PST</pubDate>
+         <pubDate>Sat, 02 Jan 2021 03:09:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                01/02/2021 03:04:00 AM<br/>
-             Outside Temperature: 36.9&#176;F<br/>
+             Time:                01/02/2021 03:09:00 AM<br/>
+             Outside Temperature: 36.8&#176;F<br/>
              Inside Temperature:  66.7&#176;F<br/>
-             Wind Chill:          36.9&#176;F<br/>
-             Heat Index:          36.9&#176;F<br/>
-             Dewpoint:            34.2&#176;F<br/>
+             Wind Chill:          36.8&#176;F<br/>
+             Heat Index:          36.8&#176;F<br/>
+             Dewpoint:            34.1&#176;F<br/>
              Humidity:            90%<br/>
-             Barometer:           30.247 inHg<br/>
-             Wind:                2 mph from 338&#176;<br/>
+             Barometer:           30.246 inHg<br/>
+             Wind:                2 mph from 22&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 01/02/2021 03:04:00 AM</title>
+         <title>Daily Weather Summary as of 01/02/2021 03:09:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 36.3&#176;F at 01:50:51 AM;
          	Max outside temperature: 38.8&#176;F at 12:12:49 AM;
-	        Min inside temperature:  66.7&#176;F at 02:59:57 AM;
+	        Min inside temperature:  66.6&#176;F at 03:06:57 AM;
 	        Max inside temperature:  69.6&#176;F at 12:00:01 AM;
 	        Min barometer:           30.195 inHg at 01:56:57 AM;
-	        Max barometer:           30.248 inHg at 03:01:57 AM;
+	        Max barometer:           30.250 inHg at 03:08:57 AM;
             Max wind :               5 mph from 161&#176; at 01:42:25 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Sat, 02 Jan 2021 03:04:00 PST</pubDate>
+         <pubDate>Sat, 02 Jan 2021 03:09:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
@@ -64,10 +64,10 @@
              Day:                     02 Jan 2021<br/>
 	         Min Outside Temperature: 36.3&#176;F at 01:50:51 AM<br/>
 	         Max Outside Temperature: 38.8&#176;F at 12:12:49 AM<br/>
-	         Min Inside Temperature:  66.7&#176;F at 02:59:57 AM<br/>
+	         Min Inside Temperature:  66.6&#176;F at 03:06:57 AM<br/>
 	         Max Inside Temperature:  69.6&#176;F at 12:00:01 AM<br/>
 	         Min Barometer:           30.195 inHg at 01:56:57 AM<br/>
-	         Max Barometer:           30.248 inHg at 03:01:57 AM<br/>
+	         Max Barometer:           30.250 inHg at 03:08:57 AM<br/>
              Max Wind :               5 mph from 161&#176; at 01:42:25 AM<br/>
              Rain today:              0.00 in<br/>
         </p>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 01/02/2021 03:04:00 AM</title>
+         <title>Monthly Weather Summary as of 01/02/2021 03:09:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 32.5&#176;F at 01/01/2021 07:35:27 AM;
@@ -83,11 +83,11 @@
 	        Min inside temperature:  64.1&#176;F at 01/01/2021 06:40:57 AM;
 	        Max inside temperature:  80.1&#176;F at 01/01/2021 07:45:59 PM;
 	        Min barometer:           30.114 inHg at 01/01/2021 04:51:57 AM;
-	        Max barometer:           30.249 inHg at 01/01/2021 10:14:59 PM;
+	        Max barometer:           30.250 inHg at 01/02/2021 03:08:57 AM;
             Max wind :               8 mph from 311&#176; at 01/01/2021 05:34:27 AM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Sat, 02 Jan 2021 03:04:00 PST</pubDate>
+         <pubDate>Sat, 02 Jan 2021 03:09:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   January 2021<br/>
@@ -96,7 +96,7 @@
 	         Max Inside Temperature:  80.1&#176;F at 01/01/2021 07:45:59 PM<br/>
 	         Min Inside Temperature:  64.1&#176;F at 01/01/2021 06:40:57 AM<br/>
 	         Min Barometer:           30.114 inHg at 01/01/2021 04:51:57 AM<br/>
-	         Max Barometer:           30.249 inHg at 01/01/2021 10:14:59 PM<br/>
+	         Max Barometer:           30.250 inHg at 01/02/2021 03:08:57 AM<br/>
              Max Wind :               8 mph from 311&#176; at 01/01/2021 05:34:27 AM<br/>
              Rain total for month:    0.00 in<br/>
         </p>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 01/02/2021 03:04:00 AM</title>
+         <title>Yearly Weather Summary as of 01/02/2021 03:09:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 32.5&#176;F at 01/01/2021 07:35:27 AM;
@@ -112,11 +112,11 @@
 	        Min inside temperature:  64.1&#176;F at 01/01/2021 06:40:57 AM;
 	        Max inside temperature:  80.1&#176;F at 01/01/2021 07:45:59 PM;
 	        Min barometer:           30.114 inHg at 01/01/2021 04:51:57 AM;
-	        Max barometer:           30.249 inHg at 01/01/2021 10:14:59 PM;
+	        Max barometer:           30.250 inHg at 01/02/2021 03:08:57 AM;
             Max wind :               8 mph from 311&#176; at 01/01/2021 05:34:27 AM;
             Rain total for year:     0.00 in
          </description>
-         <pubDate>Sat, 02 Jan 2021 03:04:00 PST</pubDate>
+         <pubDate>Sat, 02 Jan 2021 03:09:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
@@ -125,7 +125,7 @@
 	         Max Inside Temperature:  80.1&#176;F at 01/01/2021 07:45:59 PM<br/>
 	         Min Inside Temperature:  64.1&#176;F at 01/01/2021 06:40:57 AM<br/>
 	         Min Barometer:           30.114 inHg at 01/01/2021 04:51:57 AM<br/>
-	         Max Barometer:           30.249 inHg at 01/01/2021 10:14:59 PM<br/>
+	         Max Barometer:           30.250 inHg at 01/02/2021 03:08:57 AM<br/>
              Max Wind :               8 mph from 311&#176; at 01/01/2021 05:34:27 AM<br/>
              Rain total for year:     0.00 in<br/>
         </p>
