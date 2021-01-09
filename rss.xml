@@ -7,65 +7,65 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sat, 09 Jan 2021 09:24:00 PST</pubDate>
+      <pubDate>Sat, 09 Jan 2021 09:29:00 PST</pubDate>
 
-      <lastBuildDate>Sat, 09 Jan 2021 09:24:00 PST</lastBuildDate>
+      <lastBuildDate>Sat, 09 Jan 2021 09:29:00 PST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.2.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 01/09/2021 09:24:00 AM</title>
+         <title>Weather Conditions at 01/09/2021 09:29:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 48.5&#176;F; 
-           Barometer: 30.260 inHg; 
-           Wind: 5 mph from 22&#176;; 
+           Outside temperature: 48.6&#176;F; 
+           Barometer: 30.256 inHg; 
+           Wind: 1 mph from 45&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 72.4&#176;F
+           Inside temperature: 72.8&#176;F
          </description>
-         <pubDate>Sat, 09 Jan 2021 09:24:00 PST</pubDate>
+         <pubDate>Sat, 09 Jan 2021 09:29:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                01/09/2021 09:24:00 AM<br/>
-             Outside Temperature: 48.5&#176;F<br/>
-             Inside Temperature:  72.4&#176;F<br/>
-             Wind Chill:          46.5&#176;F<br/>
-             Heat Index:          46.9&#176;F<br/>
-             Dewpoint:            42.9&#176;F<br/>
+             Time:                01/09/2021 09:29:00 AM<br/>
+             Outside Temperature: 48.6&#176;F<br/>
+             Inside Temperature:  72.8&#176;F<br/>
+             Wind Chill:          48.6&#176;F<br/>
+             Heat Index:          47.0&#176;F<br/>
+             Dewpoint:            43.0&#176;F<br/>
              Humidity:            81%<br/>
-             Barometer:           30.260 inHg<br/>
-             Wind:                5 mph from 22&#176;<br/>
+             Barometer:           30.256 inHg<br/>
+             Wind:                1 mph from 45&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 01/09/2021 09:24:00 AM</title>
+         <title>Daily Weather Summary as of 01/09/2021 09:29:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 40.5&#176;F at 01:25:08 AM;
-         	Max outside temperature: 48.5&#176;F at 09:17:39 AM;
+         	Max outside temperature: 48.6&#176;F at 09:27:45 AM;
 	        Min inside temperature:  64.0&#176;F at 07:06:57 AM;
-	        Max inside temperature:  72.5&#176;F at 09:23:57 AM;
+	        Max inside temperature:  72.8&#176;F at 09:27:57 AM;
 	        Min barometer:           30.214 inHg at 12:00:56 AM;
 	        Max barometer:           30.262 inHg at 09:21:57 AM;
             Max wind :               10 mph from 29&#176; at 09:22:49 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Sat, 09 Jan 2021 09:24:00 PST</pubDate>
+         <pubDate>Sat, 09 Jan 2021 09:29:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     09 Jan 2021<br/>
 	         Min Outside Temperature: 40.5&#176;F at 01:25:08 AM<br/>
-	         Max Outside Temperature: 48.5&#176;F at 09:17:39 AM<br/>
+	         Max Outside Temperature: 48.6&#176;F at 09:27:45 AM<br/>
 	         Min Inside Temperature:  64.0&#176;F at 07:06:57 AM<br/>
-	         Max Inside Temperature:  72.5&#176;F at 09:23:57 AM<br/>
+	         Max Inside Temperature:  72.8&#176;F at 09:27:57 AM<br/>
 	         Min Barometer:           30.214 inHg at 12:00:56 AM<br/>
 	         Max Barometer:           30.262 inHg at 09:21:57 AM<br/>
              Max Wind :               10 mph from 29&#176; at 09:22:49 AM<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 01/09/2021 09:24:00 AM</title>
+         <title>Monthly Weather Summary as of 01/09/2021 09:29:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 32.5&#176;F at 01/01/2021 07:35:27 AM;
@@ -87,7 +87,7 @@
             Max wind :               17 mph from 355&#176; at 01/05/2021 11:26:23 AM;
             Rain total for month:    0.01 in
          </description>
-         <pubDate>Sat, 09 Jan 2021 09:24:00 PST</pubDate>
+         <pubDate>Sat, 09 Jan 2021 09:29:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   January 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 01/09/2021 09:24:00 AM</title>
+         <title>Yearly Weather Summary as of 01/09/2021 09:29:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 32.5&#176;F at 01/01/2021 07:35:27 AM;
@@ -116,7 +116,7 @@
             Max wind :               17 mph from 355&#176; at 01/05/2021 11:26:23 AM;
             Rain total for year:     0.01 in
          </description>
-         <pubDate>Sat, 09 Jan 2021 09:24:00 PST</pubDate>
+         <pubDate>Sat, 09 Jan 2021 09:29:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
