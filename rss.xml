@@ -7,56 +7,56 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 25 Jan 2021 15:14:00 PST</pubDate>
+      <pubDate>Mon, 25 Jan 2021 15:19:00 PST</pubDate>
 
-      <lastBuildDate>Mon, 25 Jan 2021 15:14:00 PST</lastBuildDate>
+      <lastBuildDate>Mon, 25 Jan 2021 15:19:00 PST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.2.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 01/25/2021 03:14:00 PM</title>
+         <title>Weather Conditions at 01/25/2021 03:19:00 PM</title>
          <link></link>
          <description>
            Outside temperature: 50.7&#176;F; 
-           Barometer: 29.809 inHg; 
-           Wind: 7 mph from 292&#176;; 
+           Barometer: 29.806 inHg; 
+           Wind: 5 mph from 292&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 79.0&#176;F
+           Inside temperature: 79.4&#176;F
          </description>
-         <pubDate>Mon, 25 Jan 2021 15:14:00 PST</pubDate>
+         <pubDate>Mon, 25 Jan 2021 15:19:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                01/25/2021 03:14:00 PM<br/>
+             Time:                01/25/2021 03:19:00 PM<br/>
              Outside Temperature: 50.7&#176;F<br/>
-             Inside Temperature:  79.0&#176;F<br/>
+             Inside Temperature:  79.4&#176;F<br/>
              Wind Chill:          50.7&#176;F<br/>
-             Heat Index:          47.9&#176;F<br/>
-             Dewpoint:            33.7&#176;F<br/>
-             Humidity:            52%<br/>
-             Barometer:           29.809 inHg<br/>
-             Wind:                7 mph from 292&#176;<br/>
+             Heat Index:          47.6&#176;F<br/>
+             Dewpoint:            30.7&#176;F<br/>
+             Humidity:            46%<br/>
+             Barometer:           29.806 inHg<br/>
+             Wind:                5 mph from 292&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 01/25/2021 03:14:00 PM</title>
+         <title>Daily Weather Summary as of 01/25/2021 03:19:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 35.2&#176;F at 04:31:08 AM;
          	Max outside temperature: 51.3&#176;F at 02:13:41 PM;
 	        Min inside temperature:  64.8&#176;F at 06:44:56 AM;
-	        Max inside temperature:  79.1&#176;F at 03:13:57 PM;
+	        Max inside temperature:  79.4&#176;F at 03:17:57 PM;
 	        Min barometer:           29.788 inHg at 01:53:57 PM;
 	        Max barometer:           29.862 inHg at 09:58:56 AM;
             Max wind :               21 mph from 312&#176; at 10:08:54 AM;
             Rain today:              0.01 in
          </description>
-         <pubDate>Mon, 25 Jan 2021 15:14:00 PST</pubDate>
+         <pubDate>Mon, 25 Jan 2021 15:19:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
@@ -65,7 +65,7 @@
 	         Min Outside Temperature: 35.2&#176;F at 04:31:08 AM<br/>
 	         Max Outside Temperature: 51.3&#176;F at 02:13:41 PM<br/>
 	         Min Inside Temperature:  64.8&#176;F at 06:44:56 AM<br/>
-	         Max Inside Temperature:  79.1&#176;F at 03:13:57 PM<br/>
+	         Max Inside Temperature:  79.4&#176;F at 03:17:57 PM<br/>
 	         Min Barometer:           29.788 inHg at 01:53:57 PM<br/>
 	         Max Barometer:           29.862 inHg at 09:58:56 AM<br/>
              Max Wind :               21 mph from 312&#176; at 10:08:54 AM<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 01/25/2021 03:14:00 PM</title>
+         <title>Monthly Weather Summary as of 01/25/2021 03:19:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 29.9&#176;F at 01/21/2021 07:25:48 AM;
@@ -87,7 +87,7 @@
             Max wind :               25 mph from 45&#176; at 01/19/2021 11:19:00 AM;
             Rain total for month:    0.17 in
          </description>
-         <pubDate>Mon, 25 Jan 2021 15:14:00 PST</pubDate>
+         <pubDate>Mon, 25 Jan 2021 15:19:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   January 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 01/25/2021 03:14:00 PM</title>
+         <title>Yearly Weather Summary as of 01/25/2021 03:19:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 29.9&#176;F at 01/21/2021 07:25:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               25 mph from 45&#176; at 01/19/2021 11:19:00 AM;
             Rain total for year:     0.17 in
          </description>
-         <pubDate>Mon, 25 Jan 2021 15:14:00 PST</pubDate>
+         <pubDate>Mon, 25 Jan 2021 15:19:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
