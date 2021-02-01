@@ -7,56 +7,56 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 01 Feb 2021 08:29:00 PST</pubDate>
+      <pubDate>Mon, 01 Feb 2021 08:34:00 PST</pubDate>
 
-      <lastBuildDate>Mon, 01 Feb 2021 08:29:00 PST</lastBuildDate>
+      <lastBuildDate>Mon, 01 Feb 2021 08:34:00 PST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.2.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 02/01/2021 08:29:00 AM</title>
+         <title>Weather Conditions at 02/01/2021 08:34:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 50.1&#176;F; 
-           Barometer: 30.088 inHg; 
-           Wind: 1 mph from 202&#176;; 
+           Outside temperature: 50.9&#176;F; 
+           Barometer: 30.091 inHg; 
+           Wind: 1 mph from 180&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 76.9&#176;F
+           Inside temperature: 77.2&#176;F
          </description>
-         <pubDate>Mon, 01 Feb 2021 08:29:00 PST</pubDate>
+         <pubDate>Mon, 01 Feb 2021 08:34:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                02/01/2021 08:29:00 AM<br/>
-             Outside Temperature: 50.1&#176;F<br/>
-             Inside Temperature:  76.9&#176;F<br/>
-             Wind Chill:          50.1&#176;F<br/>
-             Heat Index:          48.4&#176;F<br/>
-             Dewpoint:            43.2&#176;F<br/>
+             Time:                02/01/2021 08:34:00 AM<br/>
+             Outside Temperature: 50.9&#176;F<br/>
+             Inside Temperature:  77.2&#176;F<br/>
+             Wind Chill:          50.9&#176;F<br/>
+             Heat Index:          49.3&#176;F<br/>
+             Dewpoint:            43.9&#176;F<br/>
              Humidity:            77%<br/>
-             Barometer:           30.088 inHg<br/>
-             Wind:                1 mph from 202&#176;<br/>
+             Barometer:           30.091 inHg<br/>
+             Wind:                1 mph from 180&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 02/01/2021 08:29:00 AM</title>
+         <title>Daily Weather Summary as of 02/01/2021 08:34:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 47.0&#176;F at 08:00:55 AM;
          	Max outside temperature: 51.7&#176;F at 03:26:22 AM;
 	        Min inside temperature:  68.3&#176;F at 06:43:00 AM;
-	        Max inside temperature:  76.9&#176;F at 08:28:01 AM;
+	        Max inside temperature:  77.2&#176;F at 08:33:01 AM;
 	        Min barometer:           30.044 inHg at 02:32:00 AM;
 	        Max barometer:           30.104 inHg at 12:00:04 AM;
             Max wind :               5 mph from 223&#176; at 02:16:42 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Mon, 01 Feb 2021 08:29:00 PST</pubDate>
+         <pubDate>Mon, 01 Feb 2021 08:34:00 PST</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
@@ -65,7 +65,7 @@
 	         Min Outside Temperature: 47.0&#176;F at 08:00:55 AM<br/>
 	         Max Outside Temperature: 51.7&#176;F at 03:26:22 AM<br/>
 	         Min Inside Temperature:  68.3&#176;F at 06:43:00 AM<br/>
-	         Max Inside Temperature:  76.9&#176;F at 08:28:01 AM<br/>
+	         Max Inside Temperature:  77.2&#176;F at 08:33:01 AM<br/>
 	         Min Barometer:           30.044 inHg at 02:32:00 AM<br/>
 	         Max Barometer:           30.104 inHg at 12:00:04 AM<br/>
              Max Wind :               5 mph from 223&#176; at 02:16:42 AM<br/>
@@ -75,25 +75,25 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 02/01/2021 08:29:00 AM</title>
+         <title>Monthly Weather Summary as of 02/01/2021 08:34:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 47.0&#176;F at 02/01/2021 08:00:55 AM;
          	Max outside temperature: 51.7&#176;F at 02/01/2021 03:26:22 AM;
 	        Min inside temperature:  68.3&#176;F at 02/01/2021 06:43:00 AM;
-	        Max inside temperature:  76.9&#176;F at 02/01/2021 08:28:01 AM;
+	        Max inside temperature:  77.2&#176;F at 02/01/2021 08:33:01 AM;
 	        Min barometer:           30.044 inHg at 02/01/2021 02:32:00 AM;
 	        Max barometer:           30.104 inHg at 02/01/2021 12:00:04 AM;
             Max wind :               5 mph from 223&#176; at 02/01/2021 02:16:42 AM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Mon, 01 Feb 2021 08:29:00 PST</pubDate>
+         <pubDate>Mon, 01 Feb 2021 08:34:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   February 2021<br/>
 	         Max Outside Temperature: 51.7&#176;F at 02/01/2021 03:26:22 AM<br/>
 	         Min Outside Temperature: 47.0&#176;F at 02/01/2021 08:00:55 AM<br/>
-	         Max Inside Temperature:  76.9&#176;F at 02/01/2021 08:28:01 AM<br/>
+	         Max Inside Temperature:  77.2&#176;F at 02/01/2021 08:33:01 AM<br/>
 	         Min Inside Temperature:  68.3&#176;F at 02/01/2021 06:43:00 AM<br/>
 	         Min Barometer:           30.044 inHg at 02/01/2021 02:32:00 AM<br/>
 	         Max Barometer:           30.104 inHg at 02/01/2021 12:00:04 AM<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 02/01/2021 08:29:00 AM</title>
+         <title>Yearly Weather Summary as of 02/01/2021 08:34:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 25.7&#176;F at 01/26/2021 06:24:24 AM;
@@ -116,7 +116,7 @@
             Max wind :               36 mph from 158&#176; at 01/27/2021 05:21:00 AM;
             Rain total for year:     6.03 in
          </description>
-         <pubDate>Mon, 01 Feb 2021 08:29:00 PST</pubDate>
+         <pubDate>Mon, 01 Feb 2021 08:34:00 PST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
