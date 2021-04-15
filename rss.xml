@@ -7,35 +7,35 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Thu, 15 Apr 2021 03:29:00 PDT</pubDate>
+      <pubDate>Thu, 15 Apr 2021 03:34:00 PDT</pubDate>
 
-      <lastBuildDate>Thu, 15 Apr 2021 03:29:00 PDT</lastBuildDate>
+      <lastBuildDate>Thu, 15 Apr 2021 03:34:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.4.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 04/15/2021 03:29:00 AM</title>
+         <title>Weather Conditions at 04/15/2021 03:34:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 39.5&#176;F; 
+           Outside temperature: 39.4&#176;F; 
            Barometer: 30.016 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/h; 
            Inside temperature: 68.8&#176;F
          </description>
-         <pubDate>Thu, 15 Apr 2021 03:29:00 PDT</pubDate>
+         <pubDate>Thu, 15 Apr 2021 03:34:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                04/15/2021 03:29:00 AM<br/>
-             Outside Temperature: 39.5&#176;F<br/>
+             Time:                04/15/2021 03:34:00 AM<br/>
+             Outside Temperature: 39.4&#176;F<br/>
              Inside Temperature:  68.8&#176;F<br/>
-             Wind Chill:          39.5&#176;F<br/>
-             Heat Index:          39.5&#176;F<br/>
-             Dewpoint:            37.1&#176;F<br/>
-             Humidity:            91%<br/>
+             Wind Chill:          39.4&#176;F<br/>
+             Heat Index:          39.4&#176;F<br/>
+             Dewpoint:            36.7&#176;F<br/>
+             Humidity:            90%<br/>
              Barometer:           30.016 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/h<br/>
@@ -44,10 +44,10 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 04/15/2021 03:29:00 AM</title>
+         <title>Daily Weather Summary as of 04/15/2021 03:34:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature: 39.5&#176;F at 03:28:26 AM;
+	        Min outside temperature: 39.4&#176;F at 03:32:32 AM;
          	Max outside temperature: 45.8&#176;F at 12:00:02 AM;
 	        Min inside temperature:  68.8&#176;F at 03:27:58 AM;
 	        Max inside temperature:  71.9&#176;F at 12:00:02 AM;
@@ -56,13 +56,13 @@
             Max wind :               4 mph from 171&#176; at 12:00:46 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Thu, 15 Apr 2021 03:29:00 PDT</pubDate>
+         <pubDate>Thu, 15 Apr 2021 03:34:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     15 Apr 2021<br/>
-	         Min Outside Temperature: 39.5&#176;F at 03:28:26 AM<br/>
+	         Min Outside Temperature: 39.4&#176;F at 03:32:32 AM<br/>
 	         Max Outside Temperature: 45.8&#176;F at 12:00:02 AM<br/>
 	         Min Inside Temperature:  68.8&#176;F at 03:27:58 AM<br/>
 	         Max Inside Temperature:  71.9&#176;F at 12:00:02 AM<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 04/15/2021 03:29:00 AM</title>
+         <title>Monthly Weather Summary as of 04/15/2021 03:34:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 38.0&#176;F at 04/04/2021 05:02:07 AM;
@@ -87,7 +87,7 @@
             Max wind :               27 mph from 163&#176; at 04/02/2021 06:00:14 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Thu, 15 Apr 2021 03:29:00 PDT</pubDate>
+         <pubDate>Thu, 15 Apr 2021 03:34:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   April 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 04/15/2021 03:29:00 AM</title>
+         <title>Yearly Weather Summary as of 04/15/2021 03:34:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 25.7&#176;F at 01/26/2021 06:24:24 AM;
@@ -116,7 +116,7 @@
             Max wind :               36 mph from 158&#176; at 01/27/2021 05:21:00 AM;
             Rain total for year:     6.83 in
          </description>
-         <pubDate>Thu, 15 Apr 2021 03:29:00 PDT</pubDate>
+         <pubDate>Thu, 15 Apr 2021 03:34:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
