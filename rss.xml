@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 31 May 2021 23:59:00 PDT</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:04:00 PDT</pubDate>
 
-      <lastBuildDate>Mon, 31 May 2021 23:59:00 PDT</lastBuildDate>
+      <lastBuildDate>Tue, 01 Jun 2021 00:04:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.4.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 05/31/2021 11:59:00 PM</title>
+         <title>Weather Conditions at 06/01/2021 12:04:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 62.9&#176;F; 
-           Barometer: 29.922 inHg; 
+           Outside temperature: 62.6&#176;F; 
+           Barometer: 29.921 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/h; 
            Inside temperature: 79.7&#176;F
          </description>
-         <pubDate>Mon, 31 May 2021 23:59:00 PDT</pubDate>
+         <pubDate>Tue, 01 Jun 2021 00:04:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                05/31/2021 11:59:00 PM<br/>
-             Outside Temperature: 62.9&#176;F<br/>
+             Time:                06/01/2021 12:04:00 AM<br/>
+             Outside Temperature: 62.6&#176;F<br/>
              Inside Temperature:  79.7&#176;F<br/>
-             Wind Chill:          62.9&#176;F<br/>
-             Heat Index:          61.8&#176;F<br/>
-             Dewpoint:            49.7&#176;F<br/>
-             Humidity:            62%<br/>
-             Barometer:           29.922 inHg<br/>
+             Wind Chill:          62.6&#176;F<br/>
+             Heat Index:          61.4&#176;F<br/>
+             Dewpoint:            49.0&#176;F<br/>
+             Humidity:            61%<br/>
+             Barometer:           29.921 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
@@ -44,67 +44,67 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 05/31/2021 11:59:00 PM</title>
+         <title>Daily Weather Summary as of 06/01/2021 12:04:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature: 55.9&#176;F at 05:47:52 AM;
-         	Max outside temperature: 86.5&#176;F at 11:47:39 AM;
-	        Min inside temperature:  75.7&#176;F at 05:49:58 AM;
-	        Max inside temperature:  96.5&#176;F at 06:26:00 PM;
-	        Min barometer:           29.804 inHg at 04:31:00 PM;
-	        Max barometer:           29.924 inHg at 11:43:00 PM;
-            Max wind :               20 mph from 225&#176; at 02:35:00 PM;
+	        Min outside temperature: 62.6&#176;F at 12:03:34 AM;
+         	Max outside temperature: 62.9&#176;F at 12:00:02 AM;
+	        Min inside temperature:  79.7&#176;F at 12:00:02 AM;
+	        Max inside temperature:  79.8&#176;F at 12:00:58 AM;
+	        Min barometer:           29.917 inHg at 12:00:58 AM;
+	        Max barometer:           29.922 inHg at 12:00:03 AM;
+            Max wind :               0 mph from    N/A at 12:00:02 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Mon, 31 May 2021 23:59:00 PDT</pubDate>
+         <pubDate>Tue, 01 Jun 2021 00:04:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Day:                     31 May 2021<br/>
-	         Min Outside Temperature: 55.9&#176;F at 05:47:52 AM<br/>
-	         Max Outside Temperature: 86.5&#176;F at 11:47:39 AM<br/>
-	         Min Inside Temperature:  75.7&#176;F at 05:49:58 AM<br/>
-	         Max Inside Temperature:  96.5&#176;F at 06:26:00 PM<br/>
-	         Min Barometer:           29.804 inHg at 04:31:00 PM<br/>
-	         Max Barometer:           29.924 inHg at 11:43:00 PM<br/>
-             Max Wind :               20 mph from 225&#176; at 02:35:00 PM<br/>
+             Day:                     01 Jun 2021<br/>
+	         Min Outside Temperature: 62.6&#176;F at 12:03:34 AM<br/>
+	         Max Outside Temperature: 62.9&#176;F at 12:00:02 AM<br/>
+	         Min Inside Temperature:  79.7&#176;F at 12:00:02 AM<br/>
+	         Max Inside Temperature:  79.8&#176;F at 12:00:58 AM<br/>
+	         Min Barometer:           29.917 inHg at 12:00:58 AM<br/>
+	         Max Barometer:           29.922 inHg at 12:00:03 AM<br/>
+             Max Wind :               0 mph from    N/A at 12:00:02 AM<br/>
              Rain today:              0.00 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 05/31/2021 11:59:00 PM</title>
+         <title>Monthly Weather Summary as of 06/01/2021 12:04:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature: 38.3&#176;F at 05/21/2021 06:25:39 AM;
-         	Max outside temperature: 96.0&#176;F at 05/30/2021 04:58:34 PM;
-	        Min inside temperature:  67.3&#176;F at 05/22/2021 06:13:59 AM;
-	        Max inside temperature:  96.5&#176;F at 05/31/2021 06:26:00 PM;
-	        Min barometer:           29.757 inHg at 05/30/2021 05:31:00 PM;
-	        Max barometer:           30.157 inHg at 05/23/2021 08:57:59 AM;
-            Max wind :               35 mph from 173&#176; at 05/14/2021 04:13:54 PM;
+	        Min outside temperature: 62.6&#176;F at 06/01/2021 12:03:34 AM;
+         	Max outside temperature: 62.9&#176;F at 06/01/2021 12:00:02 AM;
+	        Min inside temperature:  79.7&#176;F at 06/01/2021 12:00:02 AM;
+	        Max inside temperature:  79.8&#176;F at 06/01/2021 12:00:58 AM;
+	        Min barometer:           29.917 inHg at 06/01/2021 12:00:58 AM;
+	        Max barometer:           29.922 inHg at 06/01/2021 12:00:03 AM;
+            Max wind :               0 mph from    N/A at 06/01/2021 12:00:02 AM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Mon, 31 May 2021 23:59:00 PDT</pubDate>
+         <pubDate>Tue, 01 Jun 2021 00:04:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
-             Month:                   May 2021<br/>
-	         Max Outside Temperature: 96.0&#176;F at 05/30/2021 04:58:34 PM<br/>
-	         Min Outside Temperature: 38.3&#176;F at 05/21/2021 06:25:39 AM<br/>
-	         Max Inside Temperature:  96.5&#176;F at 05/31/2021 06:26:00 PM<br/>
-	         Min Inside Temperature:  67.3&#176;F at 05/22/2021 06:13:59 AM<br/>
-	         Min Barometer:           29.757 inHg at 05/30/2021 05:31:00 PM<br/>
-	         Max Barometer:           30.157 inHg at 05/23/2021 08:57:59 AM<br/>
-             Max Wind :               35 mph from 173&#176; at 05/14/2021 04:13:54 PM<br/>
+             Month:                   June 2021<br/>
+	         Max Outside Temperature: 62.9&#176;F at 06/01/2021 12:00:02 AM<br/>
+	         Min Outside Temperature: 62.6&#176;F at 06/01/2021 12:03:34 AM<br/>
+	         Max Inside Temperature:  79.8&#176;F at 06/01/2021 12:00:58 AM<br/>
+	         Min Inside Temperature:  79.7&#176;F at 06/01/2021 12:00:02 AM<br/>
+	         Min Barometer:           29.917 inHg at 06/01/2021 12:00:58 AM<br/>
+	         Max Barometer:           29.922 inHg at 06/01/2021 12:00:03 AM<br/>
+             Max Wind :               0 mph from    N/A at 06/01/2021 12:00:02 AM<br/>
              Rain total for month:    0.00 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 05/31/2021 11:59:00 PM</title>
+         <title>Yearly Weather Summary as of 06/01/2021 12:04:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 25.7&#176;F at 01/26/2021 06:24:24 AM;
@@ -116,7 +116,7 @@
             Max wind :               36 mph from 158&#176; at 01/27/2021 05:21:00 AM;
             Rain total for year:     6.83 in
          </description>
-         <pubDate>Mon, 31 May 2021 23:59:00 PDT</pubDate>
+         <pubDate>Tue, 01 Jun 2021 00:04:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
