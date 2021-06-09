@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Tue, 08 Jun 2021 21:39:00 PDT</pubDate>
+      <pubDate>Tue, 08 Jun 2021 21:44:00 PDT</pubDate>
 
-      <lastBuildDate>Tue, 08 Jun 2021 21:39:00 PDT</lastBuildDate>
+      <lastBuildDate>Tue, 08 Jun 2021 21:44:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.4.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 06/08/2021 09:39:00 PM</title>
+         <title>Weather Conditions at 06/08/2021 09:44:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 53.7&#176;F; 
-           Barometer: 30.060 inHg; 
+           Outside temperature: 53.5&#176;F; 
+           Barometer: 30.059 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 74.3&#176;F
+           Inside temperature: 74.2&#176;F
          </description>
-         <pubDate>Tue, 08 Jun 2021 21:39:00 PDT</pubDate>
+         <pubDate>Tue, 08 Jun 2021 21:44:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                06/08/2021 09:39:00 PM<br/>
-             Outside Temperature: 53.7&#176;F<br/>
-             Inside Temperature:  74.3&#176;F<br/>
-             Wind Chill:          53.7&#176;F<br/>
-             Heat Index:          52.1&#176;F<br/>
-             Dewpoint:            44.2&#176;F<br/>
-             Humidity:            70%<br/>
-             Barometer:           30.060 inHg<br/>
+             Time:                06/08/2021 09:44:00 PM<br/>
+             Outside Temperature: 53.5&#176;F<br/>
+             Inside Temperature:  74.2&#176;F<br/>
+             Wind Chill:          53.5&#176;F<br/>
+             Heat Index:          51.9&#176;F<br/>
+             Dewpoint:            44.3&#176;F<br/>
+             Humidity:            71%<br/>
+             Barometer:           30.059 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 06/08/2021 09:39:00 PM</title>
+         <title>Daily Weather Summary as of 06/08/2021 09:44:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 42.9&#176;F at 06:15:20 AM;
@@ -52,11 +52,11 @@
 	        Min inside temperature:  69.3&#176;F at 05:46:58 AM;
 	        Max inside temperature:  93.0&#176;F at 06:25:59 PM;
 	        Min barometer:           29.946 inHg at 12:43:57 AM;
-	        Max barometer:           30.061 inHg at 09:15:59 PM;
+	        Max barometer:           30.062 inHg at 09:39:59 PM;
             Max wind :               24 mph from 167&#176; at 06:07:15 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Tue, 08 Jun 2021 21:39:00 PDT</pubDate>
+         <pubDate>Tue, 08 Jun 2021 21:44:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
@@ -67,7 +67,7 @@
 	         Min Inside Temperature:  69.3&#176;F at 05:46:58 AM<br/>
 	         Max Inside Temperature:  93.0&#176;F at 06:25:59 PM<br/>
 	         Min Barometer:           29.946 inHg at 12:43:57 AM<br/>
-	         Max Barometer:           30.061 inHg at 09:15:59 PM<br/>
+	         Max Barometer:           30.062 inHg at 09:39:59 PM<br/>
              Max Wind :               24 mph from 167&#176; at 06:07:15 PM<br/>
              Rain today:              0.00 in<br/>
         </p>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 06/08/2021 09:39:00 PM</title>
+         <title>Monthly Weather Summary as of 06/08/2021 09:44:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 42.9&#176;F at 06/08/2021 06:15:20 AM;
@@ -83,11 +83,11 @@
 	        Min inside temperature:  69.3&#176;F at 06/08/2021 05:46:58 AM;
 	        Max inside temperature:  101.3&#176;F at 06/02/2021 06:24:00 PM;
 	        Min barometer:           29.743 inHg at 06/03/2021 03:55:59 PM;
-	        Max barometer:           30.061 inHg at 06/08/2021 09:15:59 PM;
+	        Max barometer:           30.062 inHg at 06/08/2021 09:39:59 PM;
             Max wind :               34 mph from 165&#176; at 06/07/2021 06:02:23 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Tue, 08 Jun 2021 21:39:00 PDT</pubDate>
+         <pubDate>Tue, 08 Jun 2021 21:44:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   June 2021<br/>
@@ -96,7 +96,7 @@
 	         Max Inside Temperature:  101.3&#176;F at 06/02/2021 06:24:00 PM<br/>
 	         Min Inside Temperature:  69.3&#176;F at 06/08/2021 05:46:58 AM<br/>
 	         Min Barometer:           29.743 inHg at 06/03/2021 03:55:59 PM<br/>
-	         Max Barometer:           30.061 inHg at 06/08/2021 09:15:59 PM<br/>
+	         Max Barometer:           30.062 inHg at 06/08/2021 09:39:59 PM<br/>
              Max Wind :               34 mph from 165&#176; at 06/07/2021 06:02:23 PM<br/>
              Rain total for month:    0.00 in<br/>
         </p>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 06/08/2021 09:39:00 PM</title>
+         <title>Yearly Weather Summary as of 06/08/2021 09:44:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 25.7&#176;F at 01/26/2021 06:24:24 AM;
@@ -116,7 +116,7 @@
             Max wind :               36 mph from 158&#176; at 01/27/2021 05:21:00 AM;
             Rain total for year:     6.83 in
          </description>
-         <pubDate>Tue, 08 Jun 2021 21:39:00 PDT</pubDate>
+         <pubDate>Tue, 08 Jun 2021 21:44:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
