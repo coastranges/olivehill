@@ -7,48 +7,48 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Fri, 11 Jun 2021 08:59:00 PDT</pubDate>
+      <pubDate>Fri, 11 Jun 2021 09:04:00 PDT</pubDate>
 
-      <lastBuildDate>Fri, 11 Jun 2021 08:59:00 PDT</lastBuildDate>
+      <lastBuildDate>Fri, 11 Jun 2021 09:04:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.4.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 06/11/2021 08:59:00 AM</title>
+         <title>Weather Conditions at 06/11/2021 09:04:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 60.0&#176;F; 
-           Barometer: 30.051 inHg; 
-           Wind: 10 mph from 22&#176;; 
+           Outside temperature: 60.2&#176;F; 
+           Barometer: 30.048 inHg; 
+           Wind: 12 mph from 0&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 73.4&#176;F
+           Inside temperature: 73.3&#176;F
          </description>
-         <pubDate>Fri, 11 Jun 2021 08:59:00 PDT</pubDate>
+         <pubDate>Fri, 11 Jun 2021 09:04:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                06/11/2021 08:59:00 AM<br/>
-             Outside Temperature: 60.0&#176;F<br/>
-             Inside Temperature:  73.4&#176;F<br/>
-             Wind Chill:          60.0&#176;F<br/>
-             Heat Index:          58.1&#176;F<br/>
-             Dewpoint:            41.3&#176;F<br/>
-             Humidity:            50%<br/>
-             Barometer:           30.051 inHg<br/>
-             Wind:                10 mph from 22&#176;<br/>
+             Time:                06/11/2021 09:04:00 AM<br/>
+             Outside Temperature: 60.2&#176;F<br/>
+             Inside Temperature:  73.3&#176;F<br/>
+             Wind Chill:          60.2&#176;F<br/>
+             Heat Index:          58.2&#176;F<br/>
+             Dewpoint:            41.0&#176;F<br/>
+             Humidity:            49%<br/>
+             Barometer:           30.048 inHg<br/>
+             Wind:                12 mph from 0&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 06/11/2021 08:59:00 AM</title>
+         <title>Daily Weather Summary as of 06/11/2021 09:04:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 49.1&#176;F at 05:35:16 AM;
-         	Max outside temperature: 60.0&#176;F at 08:54:36 AM;
+         	Max outside temperature: 60.2&#176;F at 09:03:30 AM;
 	        Min inside temperature:  71.4&#176;F at 05:53:58 AM;
 	        Max inside temperature:  75.6&#176;F at 06:47:58 AM;
 	        Min barometer:           30.030 inHg at 05:10:58 AM;
@@ -56,14 +56,14 @@
             Max wind :               15 mph from 28&#176; at 08:52:36 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Fri, 11 Jun 2021 08:59:00 PDT</pubDate>
+         <pubDate>Fri, 11 Jun 2021 09:04:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     11 Jun 2021<br/>
 	         Min Outside Temperature: 49.1&#176;F at 05:35:16 AM<br/>
-	         Max Outside Temperature: 60.0&#176;F at 08:54:36 AM<br/>
+	         Max Outside Temperature: 60.2&#176;F at 09:03:30 AM<br/>
 	         Min Inside Temperature:  71.4&#176;F at 05:53:58 AM<br/>
 	         Max Inside Temperature:  75.6&#176;F at 06:47:58 AM<br/>
 	         Min Barometer:           30.030 inHg at 05:10:58 AM<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 06/11/2021 08:59:00 AM</title>
+         <title>Monthly Weather Summary as of 06/11/2021 09:04:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 41.7&#176;F at 06/10/2021 05:57:40 AM;
@@ -87,7 +87,7 @@
             Max wind :               34 mph from 165&#176; at 06/07/2021 06:02:23 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Fri, 11 Jun 2021 08:59:00 PDT</pubDate>
+         <pubDate>Fri, 11 Jun 2021 09:04:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   June 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 06/11/2021 08:59:00 AM</title>
+         <title>Yearly Weather Summary as of 06/11/2021 09:04:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 25.7&#176;F at 01/26/2021 06:24:24 AM;
@@ -116,7 +116,7 @@
             Max wind :               36 mph from 158&#176; at 01/27/2021 05:21:00 AM;
             Rain total for year:     6.83 in
          </description>
-         <pubDate>Fri, 11 Jun 2021 08:59:00 PDT</pubDate>
+         <pubDate>Fri, 11 Jun 2021 09:04:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
