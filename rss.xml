@@ -7,56 +7,56 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sat, 19 Jun 2021 13:39:00 PDT</pubDate>
+      <pubDate>Sat, 19 Jun 2021 13:44:00 PDT</pubDate>
 
-      <lastBuildDate>Sat, 19 Jun 2021 13:39:00 PDT</lastBuildDate>
+      <lastBuildDate>Sat, 19 Jun 2021 13:44:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.4.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 06/19/2021 01:39:00 PM</title>
+         <title>Weather Conditions at 06/19/2021 01:44:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 93.1&#176;F; 
-           Barometer: 29.699 inHg; 
-           Wind: 10 mph from 202&#176;; 
+           Outside temperature: 92.8&#176;F; 
+           Barometer: 29.698 inHg; 
+           Wind: 12 mph from 202&#176;; 
            Rain rate: 0.00 in/h; 
-           Inside temperature: 83.1&#176;F
+           Inside temperature: 83.2&#176;F
          </description>
-         <pubDate>Sat, 19 Jun 2021 13:39:00 PDT</pubDate>
+         <pubDate>Sat, 19 Jun 2021 13:44:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                06/19/2021 01:39:00 PM<br/>
-             Outside Temperature: 93.1&#176;F<br/>
-             Inside Temperature:  83.1&#176;F<br/>
-             Wind Chill:          93.1&#176;F<br/>
-             Heat Index:          89.6&#176;F<br/>
-             Dewpoint:            47.3&#176;F<br/>
-             Humidity:            21%<br/>
-             Barometer:           29.699 inHg<br/>
-             Wind:                10 mph from 202&#176;<br/>
+             Time:                06/19/2021 01:44:00 PM<br/>
+             Outside Temperature: 92.8&#176;F<br/>
+             Inside Temperature:  83.2&#176;F<br/>
+             Wind Chill:          92.8&#176;F<br/>
+             Heat Index:          89.1&#176;F<br/>
+             Dewpoint:            45.8&#176;F<br/>
+             Humidity:            20%<br/>
+             Barometer:           29.698 inHg<br/>
+             Wind:                12 mph from 202&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 06/19/2021 01:39:00 PM</title>
+         <title>Daily Weather Summary as of 06/19/2021 01:44:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 59.2&#176;F at 06:10:55 AM;
          	Max outside temperature: 93.5&#176;F at 01:34:04 PM;
 	        Min inside temperature:  78.0&#176;F at 06:25:57 AM;
-	        Max inside temperature:  83.1&#176;F at 01:24:58 PM;
-	        Min barometer:           29.698 inHg at 01:36:58 PM;
+	        Max inside temperature:  83.2&#176;F at 01:39:58 PM;
+	        Min barometer:           29.697 inHg at 01:40:58 PM;
 	        Max barometer:           29.761 inHg at 07:55:57 AM;
-            Max wind :               19 mph from 202&#176; at 12:59:40 PM;
+            Max wind :               20 mph from 196&#176; at 01:39:10 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Sat, 19 Jun 2021 13:39:00 PDT</pubDate>
+         <pubDate>Sat, 19 Jun 2021 13:44:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
@@ -65,17 +65,17 @@
 	         Min Outside Temperature: 59.2&#176;F at 06:10:55 AM<br/>
 	         Max Outside Temperature: 93.5&#176;F at 01:34:04 PM<br/>
 	         Min Inside Temperature:  78.0&#176;F at 06:25:57 AM<br/>
-	         Max Inside Temperature:  83.1&#176;F at 01:24:58 PM<br/>
-	         Min Barometer:           29.698 inHg at 01:36:58 PM<br/>
+	         Max Inside Temperature:  83.2&#176;F at 01:39:58 PM<br/>
+	         Min Barometer:           29.697 inHg at 01:40:58 PM<br/>
 	         Max Barometer:           29.761 inHg at 07:55:57 AM<br/>
-             Max Wind :               19 mph from 202&#176; at 12:59:40 PM<br/>
+             Max Wind :               20 mph from 196&#176; at 01:39:10 PM<br/>
              Rain today:              0.00 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 06/19/2021 01:39:00 PM</title>
+         <title>Monthly Weather Summary as of 06/19/2021 01:44:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 41.7&#176;F at 06/10/2021 05:57:40 AM;
@@ -87,7 +87,7 @@
             Max wind :               34 mph from 165&#176; at 06/07/2021 06:02:23 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Sat, 19 Jun 2021 13:39:00 PDT</pubDate>
+         <pubDate>Sat, 19 Jun 2021 13:44:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   June 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 06/19/2021 01:39:00 PM</title>
+         <title>Yearly Weather Summary as of 06/19/2021 01:44:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 25.7&#176;F at 01/26/2021 06:24:24 AM;
@@ -116,7 +116,7 @@
             Max wind :               36 mph from 158&#176; at 01/27/2021 05:21:00 AM;
             Rain total for year:     6.83 in
          </description>
-         <pubDate>Sat, 19 Jun 2021 13:39:00 PDT</pubDate>
+         <pubDate>Sat, 19 Jun 2021 13:44:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
