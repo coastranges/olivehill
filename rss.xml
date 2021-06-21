@@ -7,48 +7,48 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 21 Jun 2021 12:49:00 PDT</pubDate>
+      <pubDate>Mon, 21 Jun 2021 12:54:00 PDT</pubDate>
 
-      <lastBuildDate>Mon, 21 Jun 2021 12:49:00 PDT</lastBuildDate>
+      <lastBuildDate>Mon, 21 Jun 2021 12:54:00 PDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.4.0</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 06/21/2021 12:49:00 PM</title>
+         <title>Weather Conditions at 06/21/2021 12:54:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 75.2&#176;F; 
-           Barometer: 29.902 inHg; 
-           Wind: 10 mph from 202&#176;; 
+           Outside temperature: 76.4&#176;F; 
+           Barometer: 29.899 inHg; 
+           Wind: 11 mph from 180&#176;; 
            Rain rate: 0.00 in/h; 
            Inside temperature: 75.3&#176;F
          </description>
-         <pubDate>Mon, 21 Jun 2021 12:49:00 PDT</pubDate>
+         <pubDate>Mon, 21 Jun 2021 12:54:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                06/21/2021 12:49:00 PM<br/>
-             Outside Temperature: 75.2&#176;F<br/>
+             Time:                06/21/2021 12:54:00 PM<br/>
+             Outside Temperature: 76.4&#176;F<br/>
              Inside Temperature:  75.3&#176;F<br/>
-             Wind Chill:          75.2&#176;F<br/>
-             Heat Index:          74.3&#176;F<br/>
-             Dewpoint:            49.2&#176;F<br/>
-             Humidity:            40%<br/>
-             Barometer:           29.902 inHg<br/>
-             Wind:                10 mph from 202&#176;<br/>
+             Wind Chill:          76.4&#176;F<br/>
+             Heat Index:          75.5&#176;F<br/>
+             Dewpoint:            48.2&#176;F<br/>
+             Humidity:            37%<br/>
+             Barometer:           29.899 inHg<br/>
+             Wind:                11 mph from 180&#176;<br/>
              Rain Rate:           0.00 in/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 06/21/2021 12:49:00 PM</title>
+         <title>Daily Weather Summary as of 06/21/2021 12:54:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 51.2&#176;F at 05:50:41 AM;
-         	Max outside temperature: 75.5&#176;F at 12:45:27 PM;
+         	Max outside temperature: 76.4&#176;F at 12:53:29 PM;
 	        Min inside temperature:  67.8&#176;F at 07:54:57 AM;
 	        Max inside temperature:  78.0&#176;F at 12:04:56 AM;
 	        Min barometer:           29.839 inHg at 12:47:56 AM;
@@ -56,14 +56,14 @@
             Max wind :               24 mph from 210&#176; at 11:18:53 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Mon, 21 Jun 2021 12:49:00 PDT</pubDate>
+         <pubDate>Mon, 21 Jun 2021 12:54:00 PDT</pubDate>
 	     <geo:lat>35.6</geo:lat>
     	 <geo:long>-120.7</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     21 Jun 2021<br/>
 	         Min Outside Temperature: 51.2&#176;F at 05:50:41 AM<br/>
-	         Max Outside Temperature: 75.5&#176;F at 12:45:27 PM<br/>
+	         Max Outside Temperature: 76.4&#176;F at 12:53:29 PM<br/>
 	         Min Inside Temperature:  67.8&#176;F at 07:54:57 AM<br/>
 	         Max Inside Temperature:  78.0&#176;F at 12:04:56 AM<br/>
 	         Min Barometer:           29.839 inHg at 12:47:56 AM<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 06/21/2021 12:49:00 PM</title>
+         <title>Monthly Weather Summary as of 06/21/2021 12:54:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 41.7&#176;F at 06/10/2021 05:57:40 AM;
@@ -87,7 +87,7 @@
             Max wind :               34 mph from 165&#176; at 06/07/2021 06:02:23 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Mon, 21 Jun 2021 12:49:00 PDT</pubDate>
+         <pubDate>Mon, 21 Jun 2021 12:54:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   June 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 06/21/2021 12:49:00 PM</title>
+         <title>Yearly Weather Summary as of 06/21/2021 12:54:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 25.7&#176;F at 01/26/2021 06:24:24 AM;
@@ -116,7 +116,7 @@
             Max wind :               36 mph from 158&#176; at 01/27/2021 05:21:00 AM;
             Rain total for year:     6.83 in
          </description>
-         <pubDate>Mon, 21 Jun 2021 12:49:00 PDT</pubDate>
+         <pubDate>Mon, 21 Jun 2021 12:54:00 PDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
